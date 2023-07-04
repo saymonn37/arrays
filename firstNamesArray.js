@@ -1,4 +1,4 @@
-var randomFirstNames = [
+var firstNames = [
 	'Jakub',
 	'Jan',
 	'Maciej',
