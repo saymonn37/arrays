@@ -1,4 +1,4 @@
-var randomLastNames = [
+var lastNames = [
 	'Nowak',
 	'Kowalski',
 	'Wiśniewski',
