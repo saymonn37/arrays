@@ -5,6 +5,7 @@ agnieszka goławska-stachura
 anna mękarska
 vladyslav rybalko
 marek rzytki
+marka
 etl
 etla
 tme
@@ -16,3 +17,4 @@ mateusz
 szymon
 sap
 jira
+tme-office
