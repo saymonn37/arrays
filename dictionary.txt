@@ -5,7 +5,17 @@ agnieszka goławska-stachura
 anna mękarska
 vladyslav rybalko
 marek rzytki
+adam wilmowski
+mikołaj mękarski
 marka
+ani
+marek
+aniu
+mateuszem
+bartkiem
+Antonina Waszkowska 
+agnieszki
+agnieszką
 etl
 ETLa
 tme
@@ -18,3 +28,5 @@ szymon
 sap
 jira
 tme-office
+octopus
+https://bitbag.atlassian.net/wiki/pages/
