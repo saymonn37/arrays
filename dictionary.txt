@@ -1,14 +1,17 @@
-Bartosz Wojdałowicz
-Mateusz Pękala
-Szymon Obrzut
-Agnieszka Goławska-Stachura
-Vladyslav Rybalko
-ETL
+bartosz wojdałowicz
+mateusz pękala
+szymon obrzut
+agnieszka goławska-stachura
+anna mękarska
+vladyslav rybalko
+marek rzytki
+etl
 tme
 tme.cn
-Agnieszka
-Bartek
-Bartosz
-Mateusz
-Szymon
-SAP
+agnieszka
+bartek
+bartosz
+mateusz
+szymon
+sap
+jira
