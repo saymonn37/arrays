@@ -32,3 +32,5 @@ octopus
 https://bitbag.atlassian.net/wiki/pages/
 test-cn
 beta-cn
+octo
+octopusa
