@@ -15,8 +15,20 @@ Profile image of <anonymized>
 Add a comment…
 Pro tip: press 
 to comment
+edited
 Show:
 Checklist
 Profile image of <anonymized>
 Add a comment…
 Create
+Linked issues
+is blocked by
+Issue type: Task
+Issue type: Bug
+Priority: Highest
+Priority: High
+Priority: Medium
+Priority: Low
+Priority: Lowest
+edited
+relates to
