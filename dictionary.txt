@@ -1,5 +1,8 @@
-Bartek Wojdałowicz
+Bartosz Wojdałowicz
 Mateusz Pękala
 Szymon Obrzut
 Agnieszka Goławska-Stachura
 Vladyslav Rybalko
+ETL
+tme
+
