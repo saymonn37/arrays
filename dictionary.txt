@@ -7,7 +7,7 @@ vladyslav rybalko
 marek rzytki
 marka
 etl
-etla
+ETLa
 tme
 tme.cn
 agnieszka
