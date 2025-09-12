@@ -1,1313 +1,301 @@
 {
   "categories": [
     {
-      "category": {
-        "en-us": "Books & Literature",
-        "zh-hans": "书籍与文学",
-        "zh-hant": "書籍與文學"
+      "name": {
+        "en-US": "Books & Literature",
+        "zh-Hans": "书籍与文学",
+        "zh-Hant": "書籍與文學"
       },
       "products": [
-        {
-          "en-us": "Mystery Novel",
-          "zh-hans": "悬疑小说",
-          "zh-hant": "懸疑小說"
-        },
-        {
-          "en-us": "Science Fiction Novel",
-          "zh-hans": "科幻小说",
-          "zh-hant": "科幻小說"
-        },
-        {
-          "en-us": "Fantasy Novel",
-          "zh-hans": "奇幻小说",
-          "zh-hant": "奇幻小說"
-        },
-        {
-          "en-us": "Romance Novel",
-          "zh-hans": "言情小说",
-          "zh-hant": "言情小說"
-        },
-        {
-          "en-us": "Historical Fiction",
-          "zh-hans": "历史小说",
-          "zh-hant": "歷史小說"
-        },
-        {
-          "en-us": "Biography",
-          "zh-hans": "传记",
-          "zh-hant": "傳記"
-        },
-        {
-          "en-us": "Autobiography",
-          "zh-hans": "自传",
-          "zh-hant": "自傳"
-        },
-        {
-          "en-us": "Poetry Collection",
-          "zh-hans": "诗歌集",
-          "zh-hant": "詩歌集"
-        },
-        {
-          "en-us": "Short Story Anthology",
-          "zh-hans": "短篇小说集",
-          "zh-hant": "短篇小說集"
-        },
-        {
-          "en-us": "Children's Picture Book",
-          "zh-hans": "儿童绘本",
-          "zh-hant": "兒童繪本"
-        },
-        {
-          "en-us": "Young Adult Novel",
-          "zh-hans": "青少年小说",
-          "zh-hant": "青少年小說"
-        },
-        {
-          "en-us": "Classic Literature",
-          "zh-hans": "经典文学",
-          "zh-hant": "經典文學"
-        },
-        {
-          "en-us": "Philosophy Book",
-          "zh-hans": "哲学书籍",
-          "zh-hant": "哲學書籍"
-        },
-        {
-          "en-us": "Psychology Textbook",
-          "zh-hans": "心理学教材",
-          "zh-hant": "心理學教材"
-        },
-        {
-          "en-us": "Science Textbook",
-          "zh-hans": "科学教材",
-          "zh-hant": "科學教材"
-        },
-        {
-          "en-us": "Mathematics Textbook",
-          "zh-hans": "数学教材",
-          "zh-hant": "數學教材"
-        },
-        {
-          "en-us": "History Textbook",
-          "zh-hans": "历史教材",
-          "zh-hant": "歷史教材"
-        },
-        {
-          "en-us": "Art Book",
-          "zh-hans": "艺术书籍",
-          "zh-hant": "藝術書籍"
-        },
-        {
-          "en-us": "Photography Book",
-          "zh-hans": "摄影书籍",
-          "zh-hant": "攝影書籍"
-        },
-        {
-          "en-us": "Cookbook",
-          "zh-hans": "食谱",
-          "zh-hant": "食譜"
-        },
-        {
-          "en-us": "Travel Guide",
-          "zh-hans": "旅行指南",
-          "zh-hant": "旅行指南"
-        },
-        {
-          "en-us": "Self-Help Book",
-          "zh-hans": "自助书籍",
-          "zh-hant": "自助書籍"
-        },
-        {
-          "en-us": "Business Strategy Book",
-          "zh-hans": "商业策略书",
-          "zh-hant": "商業策略書"
-        },
-        {
-          "en-us": "Economics Book",
-          "zh-hans": "经济学书籍",
-          "zh-hant": "經濟學書籍"
-        },
-        {
-          "en-us": "Political Science Book",
-          "zh-hans": "政治学书籍",
-          "zh-hant": "政治學書籍"
-        },
-        {
-          "en-us": "Sociology Book",
-          "zh-hans": "社会学书籍",
-          "zh-hant": "社會學書籍"
-        },
-        {
-          "en-us": "Anthropology Book",
-          "zh-hans": "人类学书籍",
-          "zh-hant": "人類學書籍"
-        },
-        {
-          "en-us": "Engineering Manual",
-          "zh-hans": "工程手册",
-          "zh-hant": "工程手冊"
-        },
-        {
-          "en-us": "Medical Textbook",
-          "zh-hans": "医学教材",
-          "zh-hant": "醫學教材"
-        },
-        {
-          "en-us": "Law Handbook",
-          "zh-hans": "法律手册",
-          "zh-hant": "法律手冊"
-        },
-        {
-          "en-us": "Religious Text",
-          "zh-hans": "宗教文本",
-          "zh-hant": "宗教文本"
-        },
-        {
-          "en-us": "Spiritual Guide",
-          "zh-hans": "精神指南",
-          "zh-hant": "精神指南"
-        },
-        {
-          "en-us": "Mythology Collection",
-          "zh-hans": "神话集",
-          "zh-hant": "神話集"
-        },
-        {
-          "en-us": "Folktale Anthology",
-          "zh-hans": "民间故事集",
-          "zh-hant": "民間故事集"
-        },
-        {
-          "en-us": "Graphic Novel",
-          "zh-hans": "图像小说",
-          "zh-hant": "圖像小說"
-        },
-        {
-          "en-us": "Comic Book",
-          "zh-hans": "漫画书",
-          "zh-hant": "漫畫書"
-        },
-        {
-          "en-us": "Manga Volume",
-          "zh-hans": "漫画册",
-          "zh-hant": "漫畫冊"
-        },
-        {
-          "en-us": "Dictionary",
-          "zh-hans": "字典",
-          "zh-hant": "字典"
-        },
-        {
-          "en-us": "Thesaurus",
-          "zh-hans": "同义词词典",
-          "zh-hant": "同義詞詞典"
-        },
-        {
-          "en-us": "Encyclopedia",
-          "zh-hans": "百科全书",
-          "zh-hant": "百科全書"
-        },
-        {
-          "en-us": "Atlas",
-          "zh-hans": "地图集",
-          "zh-hant": "地圖集"
-        },
-        {
-          "en-us": "Language Learning Book",
-          "zh-hans": "语言学习书",
-          "zh-hant": "語言學習書"
-        },
-        {
-          "en-us": "Grammar Guide",
-          "zh-hans": "语法指南",
-          "zh-hant": "語法指南"
-        },
-        {
-          "en-us": "Writing Guide",
-          "zh-hans": "写作指南",
-          "zh-hant": "寫作指南"
-        },
-        {
-          "en-us": "Essay Collection",
-          "zh-hans": "散文集",
-          "zh-hant": "散文集"
-        },
-        {
-          "en-us": "Speech Collection",
-          "zh-hans": "演讲集",
-          "zh-hant": "演講集"
-        },
-        {
-          "en-us": "Drama Play",
-          "zh-hans": "戏剧",
-          "zh-hant": "戲劇"
-        },
-        {
-          "en-us": "Screenplay",
-          "zh-hans": "剧本",
-          "zh-hant": "劇本"
-        },
-        {
-          "en-us": "Classic Epic",
-          "zh-hans": "经典史诗",
-          "zh-hant": "經典史詩"
-        },
-        {
-          "en-us": "Literary Criticism",
-          "zh-hans": "文学批评",
-          "zh-hant": "文學批評"
-        }
+        { "name": { "en-US": "Mystery Novel", "zh-Hans": "推理小说", "zh-Hant": "推理小說" } },
+        { "name": { "en-US": "Science Fiction Novel", "zh-Hans": "科幻小说", "zh-Hant": "科幻小說" } },
+        { "name": { "en-US": "Fantasy Novel", "zh-Hans": "奇幻小说", "zh-Hant": "奇幻小說" } },
+        { "name": { "en-US": "Romance Novel", "zh-Hans": "言情小说", "zh-Hant": "言情小說" } },
+        { "name": { "en-US": "Historical Fiction", "zh-Hans": "历史小说", "zh-Hant": "歷史小說" } },
+        { "name": { "en-US": "Biography", "zh-Hans": "传记", "zh-Hant": "傳記" } },
+        { "name": { "en-US": "Autobiography", "zh-Hans": "自传", "zh-Hant": "自傳" } },
+        { "name": { "en-US": "Poetry Collection", "zh-Hans": "诗集", "zh-Hant": "詩集" } },
+        { "name": { "en-US": "Short Story Anthology", "zh-Hans": "短篇小说选集", "zh-Hant": "短篇小說選集" } },
+        { "name": { "en-US": "Children’s Picture Book", "zh-Hans": "儿童图画书", "zh-Hant": "兒童圖畫書" } },
+        { "name": { "en-US": "Young Adult Novel", "zh-Hans": "青少年小说", "zh-Hant": "青少年小說" } },
+        { "name": { "en-US": "Classic Literature", "zh-Hans": "经典文学", "zh-Hant": "經典文學" } },
+        { "name": { "en-US": "Philosophy Book", "zh-Hans": "哲学书", "zh-Hant": "哲學書" } },
+        { "name": { "en-US": "Psychology Textbook", "zh-Hans": "心理学教材", "zh-Hant": "心理學教材" } },
+        { "name": { "en-US": "Science Textbook", "zh-Hans": "科学教材", "zh-Hant": "科學教材" } },
+        { "name": { "en-US": "Mathematics Textbook", "zh-Hans": "数学教材", "zh-Hant": "數學教材" } },
+        { "name": { "en-US": "History Textbook", "zh-Hans": "历史教材", "zh-Hant": "歷史教材" } },
+        { "name": { "en-US": "Art Book", "zh-Hans": "艺术书", "zh-Hant": "藝術書" } },
+        { "name": { "en-US": "Photography Book", "zh-Hans": "摄影书", "zh-Hant": "攝影書" } },
+        { "name": { "en-US": "Cookbook", "zh-Hans": "烹饪书", "zh-Hant": "烹飪書" } },
+        { "name": { "en-US": "Travel Guide", "zh-Hans": "旅行指南", "zh-Hant": "旅行指南" } },
+        { "name": { "en-US": "Self-Help Book", "zh-Hans": "自助书", "zh-Hant": "自助書" } },
+        { "name": { "en-US": "Business Strategy Book", "zh-Hans": "商业战略书", "zh-Hant": "商業戰略書" } },
+        { "name": { "en-US": "Economics Book", "zh-Hans": "经济学书", "zh-Hant": "經濟學書" } },
+        { "name": { "en-US": "Political Science Book", "zh-Hans": "政治学书", "zh-Hant": "政治學書" } },
+        { "name": { "en-US": "Sociology Book", "zh-Hans": "社会学书", "zh-Hant": "社會學書" } },
+        { "name": { "en-US": "Anthropology Book", "zh-Hans": "人类学书", "zh-Hant": "人類學書" } },
+        { "name": { "en-US": "Engineering Manual", "zh-Hans": "工程手册", "zh-Hant": "工程手冊" } },
+        { "name": { "en-US": "Medical Textbook", "zh-Hans": "医学教材", "zh-Hant": "醫學教材" } },
+        { "name": { "en-US": "Law Handbook", "zh-Hans": "法律手册", "zh-Hant": "法律手冊" } },
+        { "name": { "en-US": "Religious Text", "zh-Hans": "宗教典籍", "zh-Hant": "宗教典籍" } },
+        { "name": { "en-US": "Spiritual Guide", "zh-Hans": "心灵指南", "zh-Hant": "心靈指南" } },
+        { "name": { "en-US": "Mythology Collection", "zh-Hans": "神话集", "zh-Hant": "神話集" } },
+        { "name": { "en-US": "Folktale Anthology", "zh-Hans": "民间故事选集", "zh-Hant": "民間故事選集" } },
+        { "name": { "en-US": "Graphic Novel", "zh-Hans": "图像小说", "zh-Hant": "圖像小說" } },
+        { "name": { "en-US": "Comic Book", "zh-Hans": "漫画书", "zh-Hant": "漫畫書" } },
+        { "name": { "en-US": "Manga Volume", "zh-Hans": "日漫单行本", "zh-Hant": "日漫單行本" } },
+        { "name": { "en-US": "Dictionary", "zh-Hans": "词典", "zh-Hant": "詞典" } },
+        { "name": { "en-US": "Thesaurus", "zh-Hans": "同义词词典", "zh-Hant": "同義詞詞典" } },
+        { "name": { "en-US": "Encyclopedia", "zh-Hans": "百科全书", "zh-Hant": "百科全書" } },
+        { "name": { "en-US": "Atlas", "zh-Hans": "地图集", "zh-Hant": "地圖集" } },
+        { "name": { "en-US": "Language Learning Book", "zh-Hans": "语言学习书", "zh-Hant": "語言學習書" } },
+        { "name": { "en-US": "Grammar Guide", "zh-Hans": "语法指南", "zh-Hant": "語法指南" } },
+        { "name": { "en-US": "Writing Guide", "zh-Hans": "写作指南", "zh-Hant": "寫作指南" } },
+        { "name": { "en-US": "Essay Collection", "zh-Hans": "散文集", "zh-Hant": "散文集" } },
+        { "name": { "en-US": "Speech Collection", "zh-Hans": "演讲集", "zh-Hant": "演講集" } },
+        { "name": { "en-US": "Drama Play", "zh-Hans": "戏剧剧本", "zh-Hant": "戲劇劇本" } },
+        { "name": { "en-US": "Screenplay", "zh-Hans": "电影剧本", "zh-Hant": "電影劇本" } },
+        { "name": { "en-US": "Classic Epic", "zh-Hans": "经典史诗", "zh-Hant": "經典史詩" } },
+        { "name": { "en-US": "Literary Criticism", "zh-Hans": "文学批评", "zh-Hant": "文學批評" } }
       ]
     },
     {
-      "category": {
-        "en-us": "Clothing & Fashion",
-        "zh-hans": "服装时尚",
-        "zh-hant": "服裝時尚"
+      "name": {
+        "en-US": "Clothing & Fashion",
+        "zh-Hans": "服装与时尚",
+        "zh-Hant": "服裝與時尚"
       },
       "products": [
-        {
-          "en-us": "T-Shirt",
-          "zh-hans": "T恤",
-          "zh-hant": "T恤"
-        },
-        {
-          "en-us": "Polo Shirt",
-          "zh-hans": "马球衫",
-          "zh-hant": "馬球衫"
-        },
-        {
-          "en-us": "Dress Shirt",
-          "zh-hans": "衬衫",
-          "zh-hant": "襯衫"
-        },
-        {
-          "en-us": "Sweater",
-          "zh-hans": "毛衣",
-          "zh-hant": "毛衣"
-        },
-        {
-          "en-us": "Hoodie",
-          "zh-hans": "连帽衫",
-          "zh-hant": "連帽衫"
-        },
-        {
-          "en-us": "Jacket",
-          "zh-hans": "夹克",
-          "zh-hant": "夾克"
-        },
-        {
-          "en-us": "Blazer",
-          "zh-hans": "西装外套",
-          "zh-hant": "西裝外套"
-        },
-        {
-          "en-us": "Suit",
-          "zh-hans": "西装",
-          "zh-hant": "西裝"
-        },
-        {
-          "en-us": "Coat",
-          "zh-hans": "外套",
-          "zh-hant": "外套"
-        },
-        {
-          "en-us": "Trench Coat",
-          "zh-hans": "风衣",
-          "zh-hant": "風衣"
-        },
-        {
-          "en-us": "Raincoat",
-          "zh-hans": "雨衣",
-          "zh-hant": "雨衣"
-        },
-        {
-          "en-us": "Leather Jacket",
-          "zh-hans": "皮夹克",
-          "zh-hant": "皮夾克"
-        },
-        {
-          "en-us": "Jeans",
-          "zh-hans": "牛仔裤",
-          "zh-hant": "牛仔褲"
-        },
-        {
-          "en-us": "Chinos",
-          "zh-hans": "休闲裤",
-          "zh-hant": "休閒褲"
-        },
-        {
-          "en-us": "Shorts",
-          "zh-hans": "短裤",
-          "zh-hant": "短褲"
-        },
-        {
-          "en-us": "Skirt",
-          "zh-hans": "裙子",
-          "zh-hant": "裙子"
-        },
-        {
-          "en-us": "Dress",
-          "zh-hans": "连衣裙",
-          "zh-hant": "連衣裙"
-        },
-        {
-          "en-us": "Evening Gown",
-          "zh-hans": "晚礼服",
-          "zh-hant": "晚禮服"
-        },
-        {
-          "en-us": "Cocktail Dress",
-          "zh-hans": "鸡尾酒裙",
-          "zh-hant": "雞尾酒裙"
-        },
-        {
-          "en-us": "Cardigan",
-          "zh-hans": "开襟毛衣",
-          "zh-hant": "開襟毛衣"
-        },
-        {
-          "en-us": "Tank Top",
-          "zh-hans": "背心",
-          "zh-hant": "背心"
-        },
-        {
-          "en-us": "Crop Top",
-          "zh-hans": "露脐上衣",
-          "zh-hant": "露臍上衣"
-        },
-        {
-          "en-us": "Sports Bra",
-          "zh-hans": "运动内衣",
-          "zh-hant": "運動內衣"
-        },
-        {
-          "en-us": "Leggings",
-          "zh-hans": "紧身裤",
-          "zh-hant": "緊身褲"
-        },
-        {
-          "en-us": "Trousers",
-          "zh-hans": "长裤",
-          "zh-hant": "長褲"
-        },
-        {
-          "en-us": "Cargo Pants",
-          "zh-hans": "工装裤",
-          "zh-hant": "工裝褲"
-        },
-        {
-          "en-us": "Overalls",
-          "zh-hans": "连体裤",
-          "zh-hant": "連體褲"
-        },
-        {
-          "en-us": "Dungarees",
-          "zh-hans": "背带裤",
-          "zh-hant": "背帶褲"
-        },
-        {
-          "en-us": "Pajamas",
-          "zh-hans": "睡衣",
-          "zh-hant": "睡衣"
-        },
-        {
-          "en-us": "Bathrobe",
-          "zh-hans": "浴袍",
-          "zh-hant": "浴袍"
-        },
-        {
-          "en-us": "Underwear",
-          "zh-hans": "内衣",
-          "zh-hant": "內衣"
-        },
-        {
-          "en-us": "Socks",
-          "zh-hans": "袜子",
-          "zh-hant": "襪子"
-        },
-        {
-          "en-us": "Stockings",
-          "zh-hans": "长筒袜",
-          "zh-hant": "長筒襪"
-        },
-        {
-          "en-us": "Tights",
-          "zh-hans": "连裤袜",
-          "zh-hant": "連褲襪"
-        },
-        {
-          "en-us": "Scarf",
-          "zh-hans": "围巾",
-          "zh-hant": "圍巾"
-        },
-        {
-          "en-us": "Tie",
-          "zh-hans": "领带",
-          "zh-hant": "領帶"
-        },
-        {
-          "en-us": "Bow Tie",
-          "zh-hans": "蝴蝶结",
-          "zh-hant": "蝴蝶結"
-        },
-        {
-          "en-us": "Hat",
-          "zh-hans": "帽子",
-          "zh-hant": "帽子"
-        },
-        {
-          "en-us": "Cap",
-          "zh-hans": "帽子",
-          "zh-hant": "帽子"
-        },
-        {
-          "en-us": "Beanie",
-          "zh-hans": "无檐小便帽",
-          "zh-hant": "無檐小便帽"
-        },
-        {
-          "en-us": "Gloves",
-          "zh-hans": "手套",
-          "zh-hant": "手套"
-        },
-        {
-          "en-us": "Mittens",
-          "zh-hans": "连指手套",
-          "zh-hant": "連指手套"
-        },
-        {
-          "en-us": "Belt",
-          "zh-hans": "腰带",
-          "zh-hant": "腰帶"
-        },
-        {
-          "en-us": "Handbag",
-          "zh-hans": "手提包",
-          "zh-hant": "手提包"
-        },
-        {
-          "en-us": "Backpack",
-          "zh-hans": "背包",
-          "zh-hant": "背包"
-        },
-        {
-          "en-us": "Sneakers",
-          "zh-hans": "运动鞋",
-          "zh-hant": "運動鞋"
-        },
-        {
-          "en-us": "Loafers",
-          "zh-hans": "乐福鞋",
-          "zh-hant": "樂福鞋"
-        },
-        {
-          "en-us": "Sandals",
-          "zh-hans": "凉鞋",
-          "zh-hant": "涼鞋"
-        },
-        {
-          "en-us": "Boots",
-          "zh-hans": "靴子",
-          "zh-hant": "靴子"
-        },
-        {
-          "en-us": "High Heels",
-          "zh-hans": "高跟鞋",
-          "zh-hant": "高跟鞋"
-        },
-        {
-          "en-us": "Slippers",
-          "zh-hans": "拖鞋",
-          "zh-hant": "拖鞋"
-        }
+        { "name": { "en-US": "T-Shirt", "zh-Hans": "T恤", "zh-Hant": "T恤" } },
+        { "name": { "en-US": "Polo Shirt", "zh-Hans": "POLO衫", "zh-Hant": "POLO衫" } },
+        { "name": { "en-US": "Dress Shirt", "zh-Hans": "正装衬衫", "zh-Hant": "正裝襯衫" } },
+        { "name": { "en-US": "Sweater", "zh-Hans": "毛衣", "zh-Hant": "毛衣" } },
+        { "name": { "en-US": "Hoodie", "zh-Hans": "连帽卫衣", "zh-Hant": "連帽衛衣" } },
+        { "name": { "en-US": "Jacket", "zh-Hans": "夹克", "zh-Hant": "夾克" } },
+        { "name": { "en-US": "Blazer", "zh-Hans": "西装外套", "zh-Hant": "西裝外套" } },
+        { "name": { "en-US": "Suit", "zh-Hans": "西装", "zh-Hant": "西裝" } },
+        { "name": { "en-US": "Coat", "zh-Hans": "大衣", "zh-Hant": "大衣" } },
+        { "name": { "en-US": "Trench Coat", "zh-Hans": "风衣", "zh-Hant": "風衣" } },
+        { "name": { "en-US": "Raincoat", "zh-Hans": "雨衣", "zh-Hant": "雨衣" } },
+        { "name": { "en-US": "Leather Jacket", "zh-Hans": "皮夹克", "zh-Hant": "皮夾克" } },
+        { "name": { "en-US": "Jeans", "zh-Hans": "牛仔裤", "zh-Hant": "牛仔褲" } },
+        { "name": { "en-US": "Chinos", "zh-Hans": "休闲卡其裤", "zh-Hant": "休閒卡其褲" } },
+        { "name": { "en-US": "Shorts", "zh-Hans": "短裤", "zh-Hant": "短褲" } },
+        { "name": { "en-US": "Skirt", "zh-Hans": "裙子", "zh-Hant": "裙子" } },
+        { "name": { "en-US": "Dress", "zh-Hans": "连衣裙", "zh-Hant": "連衣裙" } },
+        { "name": { "en-US": "Evening Gown", "zh-Hans": "礼服长裙", "zh-Hant": "禮服長裙" } },
+        { "name": { "en-US": "Cocktail Dress", "zh-Hans": "小礼服", "zh-Hant": "小禮服" } },
+        { "name": { "en-US": "Cardigan", "zh-Hans": "开衫", "zh-Hant": "開衫" } },
+        { "name": { "en-US": "Tank Top", "zh-Hans": "背心", "zh-Hant": "背心" } },
+        { "name": { "en-US": "Crop Top", "zh-Hans": "露脐上衣", "zh-Hant": "露臍上衣" } },
+        { "name": { "en-US": "Sports Bra", "zh-Hans": "运动内衣", "zh-Hant": "運動內衣" } },
+        { "name": { "en-US": "Leggings", "zh-Hans": "打底裤", "zh-Hant": "打底褲" } },
+        { "name": { "en-US": "Trousers", "zh-Hans": "长裤", "zh-Hant": "長褲" } },
+        { "name": { "en-US": "Cargo Pants", "zh-Hans": "工装裤", "zh-Hant": "工裝褲" } },
+        { "name": { "en-US": "Overalls", "zh-Hans": "连体工作服", "zh-Hant": "連體工作服" } },
+        { "name": { "en-US": "Dungarees", "zh-Hans": "背带裤", "zh-Hant": "吊帶褲" } },
+        { "name": { "en-US": "Pajamas", "zh-Hans": "睡衣", "zh-Hant": "睡衣" } },
+        { "name": { "en-US": "Bathrobe", "zh-Hans": "浴袍", "zh-Hant": "浴袍" } },
+        { "name": { "en-US": "Underwear", "zh-Hans": "内衣", "zh-Hant": "內衣" } },
+        { "name": { "en-US": "Socks", "zh-Hans": "袜子", "zh-Hant": "襪子" } },
+        { "name": { "en-US": "Stockings", "zh-Hans": "长筒袜", "zh-Hant": "長筒襪" } },
+        { "name": { "en-US": "Tights", "zh-Hans": "连裤袜", "zh-Hant": "連褲襪" } },
+        { "name": { "en-US": "Scarf", "zh-Hans": "围巾", "zh-Hant": "圍巾" } },
+        { "name": { "en-US": "Tie", "zh-Hans": "领带", "zh-Hant": "領帶" } },
+        { "name": { "en-US": "Bow Tie", "zh-Hans": "蝴蝶结领结", "zh-Hant": "蝴蝶結領結" } },
+        { "name": { "en-US": "Hat", "zh-Hans": "帽子", "zh-Hant": "帽子" } },
+        { "name": { "en-US": "Cap", "zh-Hans": "鸭舌帽", "zh-Hant": "鴨舌帽" } },
+        { "name": { "en-US": "Beanie", "zh-Hans": "毛线帽", "zh-Hant": "毛線帽" } },
+        { "name": { "en-US": "Gloves", "zh-Hans": "手套", "zh-Hant": "手套" } },
+        { "name": { "en-US": "Mittens", "zh-Hans": "连指手套", "zh-Hant": "連指手套" } },
+        { "name": { "en-US": "Belt", "zh-Hans": "腰带", "zh-Hant": "皮帶" } },
+        { "name": { "en-US": "Handbag", "zh-Hans": "手提包", "zh-Hant": "手提包" } },
+        { "name": { "en-US": "Backpack", "zh-Hans": "双肩包", "zh-Hant": "雙肩包" } },
+        { "name": { "en-US": "Sneakers", "zh-Hans": "运动鞋", "zh-Hant": "運動鞋" } },
+        { "name": { "en-US": "Loafers", "zh-Hans": "乐福鞋", "zh-Hant": "樂福鞋" } },
+        { "name": { "en-US": "Sandals", "zh-Hans": "凉鞋", "zh-Hant": "涼鞋" } },
+        { "name": { "en-US": "Boots", "zh-Hans": "靴子", "zh-Hant": "靴子" } },
+        { "name": { "en-US": "High Heels", "zh-Hans": "高跟鞋", "zh-Hant": "高跟鞋" } },
+        { "name": { "en-US": "Slippers", "zh-Hans": "拖鞋", "zh-Hant": "拖鞋" } }
       ]
     },
     {
-      "category": {
-        "en-us": "DIY Tools",
-        "zh-hans": "DIY工具",
-        "zh-hant": "DIY工具"
+      "name": {
+        "en-US": "DYI Tools",
+        "zh-Hans": "DIY 工具",
+        "zh-Hant": "DIY 工具"
       },
       "products": [
-        {
-          "en-us": "Hammer",
-          "zh-hans": "锤子",
-          "zh-hant": "錘子"
-        },
-        {
-          "en-us": "Cordless Drill",
-          "zh-hans": "无线电钻",
-          "zh-hant": "無線電鑽"
-        },
-        {
-          "en-us": "Angle Grinder",
-          "zh-hans": "角磨机",
-          "zh-hant": "角磨機"
-        },
-        {
-          "en-us": "Hand Saw",
-          "zh-hans": "手锯",
-          "zh-hant": "手鋸"
-        },
-        {
-          "en-us": "Circular Saw",
-          "zh-hans": "圆锯",
-          "zh-hant": "圓鋸"
-        },
-        {
-          "en-us": "Spirit Level",
-          "zh-hans": "水平仪",
-          "zh-hant": "水平儀"
-        },
-        {
-          "en-us": "Measuring Tape",
-          "zh-hans": "卷尺",
-          "zh-hant": "捲尺"
-        },
-        {
-          "en-us": "Adjustable Wrench",
-          "zh-hans": "活动扳手",
-          "zh-hant": "活動扳手"
-        },
-        {
-          "en-us": "Pipe Wrench",
-          "zh-hans": "管扳手",
-          "zh-hant": "管扳手"
-        },
-        {
-          "en-us": "Allen Key Set",
-          "zh-hans": "内六角扳手套装",
-          "zh-hant": "內六角扳手套裝"
-        },
-        {
-          "en-us": "Chisel",
-          "zh-hans": "凿子",
-          "zh-hant": "鑿子"
-        },
-        {
-          "en-us": "Claw Hammer",
-          "zh-hans": "羊角锤",
-          "zh-hant": "羊角錘"
-        },
-        {
-          "en-us": "Rubber Mallet",
-          "zh-hans": "橡胶锤",
-          "zh-hant": "橡膠錘"
-        },
-        {
-          "en-us": "Handsaw Frame",
-          "zh-hans": "锯架",
-          "zh-hant": "鋸架"
-        },
-        {
-          "en-us": "Coping Saw",
-          "zh-hans": "弓锯",
-          "zh-hant": "弓鋸"
-        },
-        {
-          "en-us": "Metal File",
-          "zh-hans": "金属锉刀",
-          "zh-hant": "金屬銼刀"
-        },
-        {
-          "en-us": "Wire Cutter",
-          "zh-hans": "钢丝钳",
-          "zh-hant": "鋼絲鉗"
-        },
-        {
-          "en-us": "Pliers",
-          "zh-hans": "钳子",
-          "zh-hant": "鉗子"
-        },
-        {
-          "en-us": "Combination Square",
-          "zh-hans": "组合角尺",
-          "zh-hant": "組合角尺"
-        },
-        {
-          "en-us": "Utility Knife",
-          "zh-hans": "美工刀",
-          "zh-hant": "美工刀"
-        },
-        {
-          "en-us": "Staple Gun",
-          "zh-hans": "钉枪",
-          "zh-hant": "釘槍"
-        },
-        {
-          "en-us": "Caulking Gun",
-          "zh-hans": "密封胶枪",
-          "zh-hant": "密封膠槍"
-        },
-        {
-          "en-us": "Heat Gun",
-          "zh-hans": "热风枪",
-          "zh-hant": "熱風槍"
-        },
-        {
-          "en-us": "Soldering Iron",
-          "zh-hans": "烙铁",
-          "zh-hant": "烙鐵"
-        },
-        {
-          "en-us": "Workbench",
-          "zh-hans": "工作台",
-          "zh-hant": "工作台"
-        },
-        {
-          "en-us": "Vice Grip",
-          "zh-hans": "台钳",
-          "zh-hant": "台鉗"
-        },
-        {
-          "en-us": "Drill Bits Set",
-          "zh-hans": "钻头套装",
-          "zh-hant": "鑽頭套裝"
-        },
-        {
-          "en-us": "Jigsaw",
-          "zh-hans": "拉花锯",
-          "zh-hant": "拉花鋸"
-        },
-        {
-          "en-us": "Table Saw",
-          "zh-hans": "台锯",
-          "zh-hant": "台鋸"
-        },
-        {
-          "en-us": "Band Saw",
-          "zh-hans": "带锯",
-          "zh-hant": "帶鋸"
-        },
-        {
-          "en-us": "Orbital Sander",
-          "zh-hans": "轨道砂磨机",
-          "zh-hant": "軌道砂磨機"
-        },
-        {
-          "en-us": "Belt Sander",
-          "zh-hans": "带式砂磨机",
-          "zh-hant": "帶式砂磨機"
-        },
-        {
-          "en-us": "Planer",
-          "zh-hans": "刨床",
-          "zh-hant": "刨床"
-        },
-        {
-          "en-us": "Wood Router",
-          "zh-hans": "木工铣刀",
-          "zh-hant": "木工銑刀"
-        },
-        {
-          "en-us": "Nail Gun",
-          "zh-hans": "射钉枪",
-          "zh-hant": "射釘槍"
-        },
-        {
-          "en-us": "Torque Wrench",
-          "zh-hans": "扭矩扳手",
-          "zh-hant": "扭矩扳手"
-        },
-        {
-          "en-us": "Socket Set",
-          "zh-hans": "套筒扳手组",
-          "zh-hant": "套筒扳手組"
-        },
-        {
-          "en-us": "Crowbar",
-          "zh-hans": "撬棍",
-          "zh-hant": "撬棍"
-        },
-        {
-          "en-us": "Tile Cutter",
-          "zh-hans": "瓷砖切割机",
-          "zh-hant": "瓷磚切割機"
-        },
-        {
-          "en-us": "Ladder",
-          "zh-hans": "梯子",
-          "zh-hant": "梯子"
-        },
-        {
-          "en-us": "Workbench Clamp",
-          "zh-hans": "工作台夹具",
-          "zh-hant": "工作台夾具"
-        },
-        {
-          "en-us": "Stud Finder",
-          "zh-hans": "墙筋探测器",
-          "zh-hant": "牆筋探測器"
-        },
-        {
-          "en-us": "Paint Roller",
-          "zh-hans": "滚筒刷",
-          "zh-hant": "滾筒刷"
-        },
-        {
-          "en-us": "Paint Brush Set",
-          "zh-hans": "油漆刷套装",
-          "zh-hant": "油漆刷套裝"
-        },
-        {
-          "en-us": "Putty Knife",
-          "zh-hans": "腻子刀",
-          "zh-hant": "膩子刀"
-        },
-        {
-          "en-us": "Trowel",
-          "zh-hans": "抹泥刀",
-          "zh-hant": "抹泥刀"
-        },
-        {
-          "en-us": "Hot Glue Gun",
-          "zh-hans": "热熔胶枪",
-          "zh-hant": "熱熔膠槍"
-        },
-        {
-          "en-us": "Work Light",
-          "zh-hans": "工作灯",
-          "zh-hant": "工作燈"
-        },
-        {
-          "en-us": "Dust Mask",
-          "zh-hans": "防尘面罩",
-          "zh-hant": "防塵面罩"
-        },
-        {
-          "en-us": "Protective Goggles",
-          "zh-hans": "护目镜",
-          "zh-hant": "護目鏡"
-        },
-        {
-          "en-us": "Ear Protectors",
-          "zh-hans": "护耳器",
-          "zh-hant": "護耳器"
-        }
+        { "name": { "en-US": "Hammer", "zh-Hans": "锤子", "zh-Hant": "錘子" } },
+        { "name": { "en-US": "Cordless Drill", "zh-Hans": "无绳电钻", "zh-Hant": "無繩電鑽" } },
+        { "name": { "en-US": "Angle Grinder", "zh-Hans": "角磨机", "zh-Hant": "角磨機" } },
+        { "name": { "en-US": "Hand Saw", "zh-Hans": "手锯", "zh-Hant": "手鋸" } },
+        { "name": { "en-US": "Circular Saw", "zh-Hans": "圆锯", "zh-Hant": "圓鋸" } },
+        { "name": { "en-US": "Spirit Level", "zh-Hans": "水平尺", "zh-Hant": "水平尺" } },
+        { "name": { "en-US": "Measuring Tape", "zh-Hans": "卷尺", "zh-Hant": "捲尺" } },
+        { "name": { "en-US": "Adjustable Wrench", "zh-Hans": "活动扳手", "zh-Hant": "活動扳手" } },
+        { "name": { "en-US": "Pipe Wrench", "zh-Hans": "管钳", "zh-Hant": "管鉗" } },
+        { "name": { "en-US": "Allen Key Set", "zh-Hans": "内六角扳手套装", "zh-Hant": "內六角扳手套裝" } },
+        { "name": { "en-US": "Chisel", "zh-Hans": "凿子", "zh-Hant": "鑿子" } },
+        { "name": { "en-US": "Claw Hammer", "zh-Hans": "羊角锤", "zh-Hant": "羊角錘" } },
+        { "name": { "en-US": "Rubber Mallet", "zh-Hans": "橡胶锤", "zh-Hant": "橡膠錘" } },
+        { "name": { "en-US": "Handsaw Frame", "zh-Hans": "手锯架", "zh-Hant": "手鋸架" } },
+        { "name": { "en-US": "Coping Saw", "zh-Hans": "弓锯", "zh-Hant": "弓鋸" } },
+        { "name": { "en-US": "Metal File", "zh-Hans": "金属锉", "zh-Hant": "金屬銼" } },
+        { "name": { "en-US": "Wire Cutter", "zh-Hans": "断线钳", "zh-Hant": "斷線鉗" } },
+        { "name": { "en-US": "Pliers", "zh-Hans": "钳子", "zh-Hant": "鉗子" } },
+        { "name": { "en-US": "Combination Square", "zh-Hans": "角尺", "zh-Hant": "角尺" } },
+        { "name": { "en-US": "Utility Knife", "zh-Hans": "美工刀", "zh-Hant": "美工刀" } },
+        { "name": { "en-US": "Staple Gun", "zh-Hans": "订书枪", "zh-Hant": "訂書槍" } },
+        { "name": { "en-US": "Caulking Gun", "zh-Hans": "打胶枪", "zh-Hant": "打膠槍" } },
+        { "name": { "en-US": "Heat Gun", "zh-Hans": "热风枪", "zh-Hant": "熱風槍" } },
+        { "name": { "en-US": "Soldering Iron", "zh-Hans": "电烙铁", "zh-Hant": "電烙鐵" } },
+        { "name": { "en-US": "Workbench", "zh-Hans": "工作台", "zh-Hant": "工作臺" } },
+        { "name": { "en-US": "Vice Grip", "zh-Hans": "锁紧钳", "zh-Hant": "鎖緊鉗" } },
+        { "name": { "en-US": "Drill Bits Set", "zh-Hans": "钻头套装", "zh-Hant": "鑽頭套裝" } },
+        { "name": { "en-US": "Jigsaw", "zh-Hans": "曲线锯", "zh-Hant": "曲線鋸" } },
+        { "name": { "en-US": "Table Saw", "zh-Hans": "台锯", "zh-Hant": "檯鋸" } },
+        { "name": { "en-US": "Band Saw", "zh-Hans": "带锯", "zh-Hant": "帶鋸" } },
+        { "name": { "en-US": "Orbital Sander", "zh-Hans": "轨道砂光机", "zh-Hant": "軌道砂光機" } },
+        { "name": { "en-US": "Belt Sander", "zh-Hans": "皮带砂光机", "zh-Hant": "皮帶砂光機" } },
+        { "name": { "en-US": "Planer", "zh-Hans": "刨机", "zh-Hant": "鉋機" } },
+        { "name": { "en-US": "Wood Router", "zh-Hans": "木工铣床", "zh-Hant": "木工銑床" } },
+        { "name": { "en-US": "Nail Gun", "zh-Hans": "钉枪", "zh-Hant": "釘槍" } },
+        { "name": { "en-US": "Torque Wrench", "zh-Hans": "扭矩扳手", "zh-Hant": "扭力扳手" } },
+        { "name": { "en-US": "Socket Set", "zh-Hans": "套筒扳手套装", "zh-Hant": "套筒扳手套裝" } },
+        { "name": { "en-US": "Crowbar", "zh-Hans": "撬棍", "zh-Hant": "撬棍" } },
+        { "name": { "en-US": "Tile Cutter", "zh-Hans": "切砖机", "zh-Hant": "切磚機" } },
+        { "name": { "en-US": "Ladder", "zh-Hans": "梯子", "zh-Hant": "梯子" } },
+        { "name": { "en-US": "Workbench Clamp", "zh-Hans": "工作台夹具", "zh-Hant": "工作臺夾具" } },
+        { "name": { "en-US": "Stud Finder", "zh-Hans": "探钉器", "zh-Hant": "探釘器" } },
+        { "name": { "en-US": "Paint Roller", "zh-Hans": "滚筒刷", "zh-Hant": "滾筒刷" } },
+        { "name": { "en-US": "Paint Brush Set", "zh-Hans": "油漆刷套装", "zh-Hant": "油漆刷套裝" } },
+        { "name": { "en-US": "Putty Knife", "zh-Hans": "批刀", "zh-Hant": "批刀" } },
+        { "name": { "en-US": "Trowel", "zh-Hans": "抹子", "zh-Hant": "抹子" } },
+        { "name": { "en-US": "Hot Glue Gun", "zh-Hans": "热熔胶枪", "zh-Hant": "熱熔膠槍" } },
+        { "name": { "en-US": "Work Light", "zh-Hans": "工作灯", "zh-Hant": "工作燈" } },
+        { "name": { "en-US": "Dust Mask", "zh-Hans": "防尘口罩", "zh-Hant": "防塵口罩" } },
+        { "name": { "en-US": "Protective Goggles", "zh-Hans": "护目镜", "zh-Hant": "護目鏡" } },
+        { "name": { "en-US": "Ear Protectors", "zh-Hans": "护耳", "zh-Hant": "護耳" } }
       ]
     },
     {
-      "category": {
-        "en-us": "Kitchen Appliances",
-        "zh-hans": "厨房电器",
-        "zh-hant": "廚房電器"
+      "name": {
+        "en-US": "Kitchen Appliances",
+        "zh-Hans": "厨房电器",
+        "zh-Hant": "廚房電器"
       },
       "products": [
-        {
-          "en-us": "Blender",
-          "zh-hans": "搅拌机",
-          "zh-hant": "攪拌機"
-        },
-        {
-          "en-us": "Toaster",
-          "zh-hans": "烤面包机",
-          "zh-hant": "烤麵包機"
-        },
-        {
-          "en-us": "Coffee Maker",
-          "zh-hans": "咖啡机",
-          "zh-hant": "咖啡機"
-        },
-        {
-          "en-us": "Microwave Oven",
-          "zh-hans": "微波炉",
-          "zh-hant": "微波爐"
-        },
-        {
-          "en-us": "Electric Kettle",
-          "zh-hans": "电热水壶",
-          "zh-hant": "電熱水壺"
-        },
-        {
-          "en-us": "Stand Mixer",
-          "zh-hans": "立式搅拌机",
-          "zh-hant": "立式攪拌機"
-        },
-        {
-          "en-us": "Hand Mixer",
-          "zh-hans": "手持搅拌器",
-          "zh-hant": "手持攪拌器"
-        },
-        {
-          "en-us": "Food Processor",
-          "zh-hans": "食物处理器",
-          "zh-hant": "食物處理器"
-        },
-        {
-          "en-us": "Juicer",
-          "zh-hans": "榨汁机",
-          "zh-hant": "榨汁機"
-        },
-        {
-          "en-us": "Slow Cooker",
-          "zh-hans": "慢炖锅",
-          "zh-hant": "慢燉鍋"
-        },
-        {
-          "en-us": "Pressure Cooker",
-          "zh-hans": "压力锅",
-          "zh-hant": "壓力鍋"
-        },
-        {
-          "en-us": "Air Fryer",
-          "zh-hans": "空气炸锅",
-          "zh-hant": "空氣炸鍋"
-        },
-        {
-          "en-us": "Rice Cooker",
-          "zh-hans": "电饭煲",
-          "zh-hant": "電飯煲"
-        },
-        {
-          "en-us": "Sandwich Maker",
-          "zh-hans": "三明治机",
-          "zh-hant": "三明治機"
-        },
-        {
-          "en-us": "Waffle Iron",
-          "zh-hans": "华夫饼机",
-          "zh-hant": "華夫餅機"
-        },
-        {
-          "en-us": "Ice Cream Maker",
-          "zh-hans": "冰淇淋机",
-          "zh-hant": "冰淇淋機"
-        },
-        {
-          "en-us": "Bread Maker",
-          "zh-hans": "面包机",
-          "zh-hant": "麵包機"
-        },
-        {
-          "en-us": "Induction Cooktop",
-          "zh-hans": "电磁炉",
-          "zh-hant": "電磁爐"
-        },
-        {
-          "en-us": "Electric Grill",
-          "zh-hans": "电烤盘",
-          "zh-hant": "電烤盤"
-        },
-        {
-          "en-us": "Deep Fryer",
-          "zh-hans": "油炸锅",
-          "zh-hant": "油炸鍋"
-        },
-        {
-          "en-us": "Steam Cooker",
-          "zh-hans": "蒸煮锅",
-          "zh-hant": "蒸煮鍋"
-        },
-        {
-          "en-us": "Vacuum Sealer",
-          "zh-hans": "真空封口机",
-          "zh-hant": "真空封口機"
-        },
-        {
-          "en-us": "Coffee Grinder",
-          "zh-hans": "咖啡研磨机",
-          "zh-hant": "咖啡研磨機"
-        },
-        {
-          "en-us": "Milk Frother",
-          "zh-hans": "奶泡机",
-          "zh-hant": "奶泡機"
-        },
-        {
-          "en-us": "Soup Maker",
-          "zh-hans": "汤机",
-          "zh-hant": "湯機"
-        },
-        {
-          "en-us": "Dehydrator",
-          "zh-hans": "脱水机",
-          "zh-hant": "脫水機"
-        },
-        {
-          "en-us": "Egg Cooker",
-          "zh-hans": "煮蛋器",
-          "zh-hant": "煮蛋器"
-        },
-        {
-          "en-us": "Yogurt Maker",
-          "zh-hans": "酸奶机",
-          "zh-hant": "酸奶機"
-        },
-        {
-          "en-us": "Popcorn Machine",
-          "zh-hans": "爆米花机",
-          "zh-hant": "爆米花機"
-        },
-        {
-          "en-us": "Mini Fridge",
-          "zh-hans": "小冰箱",
-          "zh-hant": "小冰箱"
-        },
-        {
-          "en-us": "Wine Cooler",
-          "zh-hans": "红酒冷却器",
-          "zh-hant": "紅酒冷卻器"
-        },
-        {
-          "en-us": "Dishwasher",
-          "zh-hans": "洗碗机",
-          "zh-hant": "洗碗機"
-        },
-        {
-          "en-us": "Electric Oven",
-          "zh-hans": "电烤箱",
-          "zh-hant": "電烤箱"
-        },
-        {
-          "en-us": "Range Hood",
-          "zh-hans": "抽油烟机",
-          "zh-hant": "抽油煙機"
-        },
-        {
-          "en-us": "Cooktop Stove",
-          "zh-hans": "灶台",
-          "zh-hant": "灶台"
-        },
-        {
-          "en-us": "Water Dispenser",
-          "zh-hans": "饮水机",
-          "zh-hant": "飲水機"
-        },
-        {
-          "en-us": "Espresso Machine",
-          "zh-hans": "意式咖啡机",
-          "zh-hant": "意式咖啡機"
-        },
-        {
-          "en-us": "Pizza Oven",
-          "zh-hans": "披萨烤箱",
-          "zh-hant": "披薩烤箱"
-        },
-        {
-          "en-us": "Compact Freezer",
-          "zh-hans": "小型冷冻柜",
-          "zh-hant": "小型冷凍櫃"
-        },
-        {
-          "en-us": "Portable Burner",
-          "zh-hans": "便携式炉头",
-          "zh-hant": "便攜式爐頭"
-        },
-        {
-          "en-us": "Sous Vide Machine",
-          "zh-hans": "低温烹饪机",
-          "zh-hant": "低溫烹飪機"
-        },
-        {
-          "en-us": "Food Warmer",
-          "zh-hans": "保温器",
-          "zh-hant": "保溫器"
-        },
-        {
-          "en-us": "Coffee Capsule Machine",
-          "zh-hans": "胶囊咖啡机",
-          "zh-hant": "膠囊咖啡機"
-        },
-        {
-          "en-us": "Herb Grinder",
-          "zh-hans": "香草研磨机",
-          "zh-hant": "香草研磨機"
-        },
-        {
-          "en-us": "Nut Grinder",
-          "zh-hans": "坚果研磨机",
-          "zh-hant": "堅果研磨機"
-        },
-        {
-          "en-us": "Churro Maker",
-          "zh-hans": "吉拿棒机",
-          "zh-hant": "吉拿棒機"
-        },
-        {
-          "en-us": "Hot Dog Roller",
-          "zh-hans": "热狗机",
-          "zh-hant": "熱狗機"
-        },
-        {
-          "en-us": "Donut Maker",
-          "zh-hans": "甜甜圈机",
-          "zh-hant": "甜甜圈機"
-        },
-        {
-          "en-us": "Tea Brewing Machine",
-          "zh-hans": "泡茶机",
-          "zh-hant": "泡茶機"
-        },
-        {
-          "en-us": "Portable Ice Maker",
-          "zh-hans": "便携式制冰机",
-          "zh-hant": "便攜式制冰機"
-        },
-        {
-          "en-us": "Electric Skillet",
-          "zh-hans": "电煎锅",
-          "zh-hant": "電煎鍋"
-        }
+        { "name": { "en-US": "Blender", "zh-Hans": "搅拌机", "zh-Hant": "攪拌機" } },
+        { "name": { "en-US": "Toaster", "zh-Hans": "烤面包机", "zh-Hant": "烤麵包機" } },
+        { "name": { "en-US": "Coffee Maker", "zh-Hans": "咖啡机", "zh-Hant": "咖啡機" } },
+        { "name": { "en-US": "Microwave Oven", "zh-Hans": "微波炉", "zh-Hant": "微波爐" } },
+        { "name": { "en-US": "Electric Kettle", "zh-Hans": "电热水壶", "zh-Hant": "電熱水壺" } },
+        { "name": { "en-US": "Stand Mixer", "zh-Hans": "厨师机", "zh-Hant": "廚師機" } },
+        { "name": { "en-US": "Hand Mixer", "zh-Hans": "手持打蛋器", "zh-Hant": "手持打蛋器" } },
+        { "name": { "en-US": "Food Processor", "zh-Hans": "食物处理机", "zh-Hant": "食物處理機" } },
+        { "name": { "en-US": "Juicer", "zh-Hans": "榨汁机", "zh-Hant": "榨汁機" } },
+        { "name": { "en-US": "Slow Cooker", "zh-Hans": "慢炖锅", "zh-Hant": "慢燉鍋" } },
+        { "name": { "en-US": "Pressure Cooker", "zh-Hans": "高压锅", "zh-Hant": "高壓鍋" } },
+        { "name": { "en-US": "Air Fryer", "zh-Hans": "空气炸锅", "zh-Hant": "空氣炸鍋" } },
+        { "name": { "en-US": "Rice Cooker", "zh-Hans": "电饭煲", "zh-Hant": "電飯煲" } },
+        { "name": { "en-US": "Sandwich Maker", "zh-Hans": "三明治机", "zh-Hant": "三明治機" } },
+        { "name": { "en-US": "Waffle Iron", "zh-Hans": "华夫饼机", "zh-Hant": "鬆餅機" } },
+        { "name": { "en-US": "Ice Cream Maker", "zh-Hans": "冰淇淋机", "zh-Hant": "冰淇淋機" } },
+        { "name": { "en-US": "Bread Maker", "zh-Hans": "面包机", "zh-Hant": "麵包機" } },
+        { "name": { "en-US": "Induction Cooktop", "zh-Hans": "电磁炉", "zh-Hant": "電磁爐" } },
+        { "name": { "en-US": "Electric Grill", "zh-Hans": "电烤炉", "zh-Hant": "電烤爐" } },
+        { "name": { "en-US": "Deep Fryer", "zh-Hans": "油炸锅", "zh-Hant": "油炸鍋" } },
+        { "name": { "en-US": "Steam Cooker", "zh-Hans": "蒸锅", "zh-Hant": "蒸鍋" } },
+        { "name": { "en-US": "Vacuum Sealer", "zh-Hans": "真空封口机", "zh-Hant": "真空封口機" } },
+        { "name": { "en-US": "Coffee Grinder", "zh-Hans": "咖啡研磨机", "zh-Hant": "咖啡研磨機" } },
+        { "name": { "en-US": "Milk Frother", "zh-Hans": "奶泡机", "zh-Hant": "打奶泡機" } },
+        { "name": { "en-US": "Soup Maker", "zh-Hans": "煲汤机", "zh-Hant": "煲湯機" } },
+        { "name": { "en-US": "Dehydrator", "zh-Hans": "食品烘干机", "zh-Hant": "食品烘乾機" } },
+        { "name": { "en-US": "Egg Cooker", "zh-Hans": "煮蛋器", "zh-Hant": "煮蛋器" } },
+        { "name": { "en-US": "Yogurt Maker", "zh-Hans": "酸奶机", "zh-Hant": "優格機" } },
+        { "name": { "en-US": "Popcorn Machine", "zh-Hans": "爆米花机", "zh-Hant": "爆米花機" } },
+        { "name": { "en-US": "Mini Fridge", "zh-Hans": "小冰箱", "zh-Hant": "小冰箱" } },
+        { "name": { "en-US": "Wine Cooler", "zh-Hans": "红酒柜", "zh-Hant": "紅酒櫃" } },
+        { "name": { "en-US": "Dishwasher", "zh-Hans": "洗碗机", "zh-Hant": "洗碗機" } },
+        { "name": { "en-US": "Electric Oven", "zh-Hans": "电烤箱", "zh-Hant": "電烤箱" } },
+        { "name": { "en-US": "Range Hood", "zh-Hans": "抽油烟机", "zh-Hant": "抽油煙機" } },
+        { "name": { "en-US": "Cooktop Stove", "zh-Hans": "炉灶台", "zh-Hant": "爐灶臺" } },
+        { "name": { "en-US": "Water Dispenser", "zh-Hans": "饮水机", "zh-Hant": "飲水機" } },
+        { "name": { "en-US": "Espresso Machine", "zh-Hans": "意式咖啡机", "zh-Hant": "義式咖啡機" } },
+        { "name": { "en-US": "Pizza Oven", "zh-Hans": "披萨炉", "zh-Hant": "披薩爐" } },
+        { "name": { "en-US": "Compact Freezer", "zh-Hans": "迷你冷冻柜", "zh-Hant": "迷你冷凍櫃" } },
+        { "name": { "en-US": "Portable Burner", "zh-Hans": "便携炉", "zh-Hant": "便攜爐" } },
+        { "name": { "en-US": "Sous Vide Machine", "zh-Hans": "低温慢煮机", "zh-Hant": "低溫慢煮機" } },
+        { "name": { "en-US": "Food Warmer", "zh-Hans": "保温炉", "zh-Hant": "保溫爐" } },
+        { "name": { "en-US": "Coffee Capsule Machine", "zh-Hans": "胶囊咖啡机", "zh-Hant": "膠囊咖啡機" } },
+        { "name": { "en-US": "Herb Grinder", "zh-Hans": "香草研磨机", "zh-Hant": "香草研磨機" } },
+        { "name": { "en-US": "Nut Grinder", "zh-Hans": "坚果研磨机", "zh-Hant": "堅果研磨機" } },
+        { "name": { "en-US": "Churro Maker", "zh-Hans": "吉事果机", "zh-Hant": "西班牙油條機" } },
+        { "name": { "en-US": "Hot Dog Roller", "zh-Hans": "热狗滚轴机", "zh-Hant": "熱狗滾軸機" } },
+        { "name": { "en-US": "Donut Maker", "zh-Hans": "甜甜圈机", "zh-Hant": "甜甜圈機" } },
+        { "name": { "en-US": "Tea Brewing Machine", "zh-Hans": "泡茶机", "zh-Hant": "泡茶機" } },
+        { "name": { "en-US": "Portable Ice Maker", "zh-Hans": "制冰机", "zh-Hant": "製冰機" } },
+        { "name": { "en-US": "Electric Skillet", "zh-Hans": "电煎锅", "zh-Hant": "電煎鍋" } }
       ]
     },
     {
-      "category": {
-        "en-us": "Sports Equipment",
-        "zh-hans": "运动器材",
-        "zh-hant": "運動器材"
+      "name": {
+        "en-US": "Sports Equipment",
+        "zh-Hans": "体育器材",
+        "zh-Hant": "體育器材"
       },
       "products": [
-        {
-          "en-us": "Football",
-          "zh-hans": "足球",
-          "zh-hant": "足球"
-        },
-        {
-          "en-us": "Basketball",
-          "zh-hans": "篮球",
-          "zh-hant": "籃球"
-        },
-        {
-          "en-us": "Tennis Racket",
-          "zh-hans": "网球拍",
-          "zh-hant": "網球拍"
-        },
-        {
-          "en-us": "Baseball Bat",
-          "zh-hans": "棒球棒",
-          "zh-hant": "棒球棒"
-        },
-        {
-          "en-us": "Cricket Bat",
-          "zh-hans": "板球拍",
-          "zh-hant": "板球拍"
-        },
-        {
-          "en-us": "Golf Club",
-          "zh-hans": "高尔夫球杆",
-          "zh-hant": "高爾夫球桿"
-        },
-        {
-          "en-us": "Hockey Stick",
-          "zh-hans": "曲棍球棒",
-          "zh-hant": "曲棍球棒"
-        },
-        {
-          "en-us": "Table Tennis Paddle",
-          "zh-hans": "乒乓球拍",
-          "zh-hant": "乒乓球拍"
-        },
-        {
-          "en-us": "Badminton Racket",
-          "zh-hans": "羽毛球拍",
-          "zh-hant": "羽毛球拍"
-        },
-        {
-          "en-us": "Volleyball",
-          "zh-hans": "排球",
-          "zh-hant": "排球"
-        },
-        {
-          "en-us": "Soccer Goal Net",
-          "zh-hans": "足球门网",
-          "zh-hant": "足球門網"
-        },
-        {
-          "en-us": "Boxing Gloves",
-          "zh-hans": "拳击手套",
-          "zh-hant": "拳擊手套"
-        },
-        {
-          "en-us": "Punching Bag",
-          "zh-hans": "沙袋",
-          "zh-hant": "沙袋"
-        },
-        {
-          "en-us": "Skipping Rope",
-          "zh-hans": "跳绳",
-          "zh-hant": "跳繩"
-        },
-        {
-          "en-us": "Yoga Mat",
-          "zh-hans": "瑜伽垫",
-          "zh-hant": "瑜伽墊"
-        },
-        {
-          "en-us": "Dumbbells",
-          "zh-hans": "哑铃",
-          "zh-hant": "啞鈴"
-        },
-        {
-          "en-us": "Kettlebell",
-          "zh-hans": "壶铃",
-          "zh-hant": "壺鈴"
-        },
-        {
-          "en-us": "Resistance Bands",
-          "zh-hans": "阻力带",
-          "zh-hant": "阻力帶"
-        },
-        {
-          "en-us": "Pull-Up Bar",
-          "zh-hans": "引体向上杆",
-          "zh-hant": "引體向上桿"
-        },
-        {
-          "en-us": "Gym Ball",
-          "zh-hans": "健身球",
-          "zh-hant": "健身球"
-        },
-        {
-          "en-us": "Balance Board",
-          "zh-hans": "平衡板",
-          "zh-hant": "平衡板"
-        },
-        {
-          "en-us": "Rowing Machine",
-          "zh-hans": "划船机",
-          "zh-hant": "划船機"
-        },
-        {
-          "en-us": "Treadmill",
-          "zh-hans": "跑步机",
-          "zh-hant": "跑步機"
-        },
-        {
-          "en-us": "Exercise Bike",
-          "zh-hans": "健身车",
-          "zh-hant": "健身車"
-        },
-        {
-          "en-us": "Elliptical Trainer",
-          "zh-hans": "椭圆机",
-          "zh-hant": "橢圓機"
-        },
-        {
-          "en-us": "Foam Roller",
-          "zh-hans": "泡沫轴",
-          "zh-hant": "泡沫軸"
-        },
-        {
-          "en-us": "Weightlifting Belt",
-          "zh-hans": "举重腰带",
-          "zh-hant": "舉重腰帶"
-        },
-        {
-          "en-us": "Shin Guards",
-          "zh-hans": "护腿板",
-          "zh-hant": "護腿板"
-        },
-        {
-          "en-us": "Helmet",
-          "zh-hans": "头盔",
-          "zh-hant": "頭盔"
-        },
-        {
-          "en-us": "Surfboard",
-          "zh-hans": "冲浪板",
-          "zh-hant": "衝浪板"
-        },
-        {
-          "en-us": "Skateboard",
-          "zh-hans": "滑板",
-          "zh-hant": "滑板"
-        },
-        {
-          "en-us": "Roller Skates",
-          "zh-hans": "溜冰鞋",
-          "zh-hant": "溜冰鞋"
-        },
-        {
-          "en-us": "Ice Skates",
-          "zh-hans": "冰刀鞋",
-          "zh-hant": "冰刀鞋"
-        },
-        {
-          "en-us": "Ski Poles",
-          "zh-hans": "滑雪杖",
-          "zh-hant": "滑雪杖"
-        },
-        {
-          "en-us": "Snowboard",
-          "zh-hans": "单板滑雪板",
-          "zh-hant": "單板滑雪板"
-        },
-        {
-          "en-us": "Climbing Rope",
-          "zh-hans": "攀岩绳",
-          "zh-hant": "攀岩繩"
-        },
-        {
-          "en-us": "Carabiner",
-          "zh-hans": "登山扣",
-          "zh-hant": "登山扣"
-        },
-        {
-          "en-us": "Camping Tent",
-          "zh-hans": "野营帐篷",
-          "zh-hant": "野營帳篷"
-        },
-        {
-          "en-us": "Hiking Backpack",
-          "zh-hans": "登山背包",
-          "zh-hant": "登山背包"
-        },
-        {
-          "en-us": "Sleeping Bag",
-          "zh-hans": "睡袋",
-          "zh-hant": "睡袋"
-        },
-        {
-          "en-us": "Kayak",
-          "zh-hans": "皮划艇",
-          "zh-hant": "皮划艇"
-        },
-        {
-          "en-us": "Canoe Paddle",
-          "zh-hans": "独木舟桨",
-          "zh-hant": "獨木舟槳"
-        },
-        {
-          "en-us": "Fishing Rod",
-          "zh-hans": "钓鱼竿",
-          "zh-hant": "釣魚竿"
-        },
-        {
-          "en-us": "Archery Bow",
-          "zh-hans": "弓箭",
-          "zh-hant": "弓箭"
-        },
-        {
-          "en-us": "Dartboard",
-          "zh-hans": "飞镖盘",
-          "zh-hant": "飛鏢盤"
-        },
-        {
-          "en-us": "Frisbee",
-          "zh-hans": "飞盘",
-          "zh-hant": "飛盤"
-        },
-        {
-          "en-us": "Table Football Set",
-          "zh-hans": "桌上足球",
-          "zh-hant": "桌上足球"
-        },
-        {
-          "en-us": "Lacrosse Stick",
-          "zh-hans": "长曲棍球棒",
-          "zh-hant": "長曲棍球棒"
-        },
-        {
-          "en-us": "Water Polo Ball",
-          "zh-hans": "水球",
-          "zh-hant": "水球"
-        },
-        {
-          "en-us": "Handball",
-          "zh-hans": "手球",
-          "zh-hant": "手球"
-        }
+        { "name": { "en-US": "Football", "zh-Hans": "美式橄榄球", "zh-Hant": "美式橄欖球" } },
+        { "name": { "en-US": "Basketball", "zh-Hans": "篮球", "zh-Hant": "籃球" } },
+        { "name": { "en-US": "Tennis Racket", "zh-Hans": "网球拍", "zh-Hant": "網球拍" } },
+        { "name": { "en-US": "Baseball Bat", "zh-Hans": "棒球棒", "zh-Hant": "棒球棒" } },
+        { "name": { "en-US": "Cricket Bat", "zh-Hans": "板球拍", "zh-Hant": "板球拍" } },
+        { "name": { "en-US": "Golf Club", "zh-Hans": "高尔夫球杆", "zh-Hant": "高爾夫球桿" } },
+        { "name": { "en-US": "Hockey Stick", "zh-Hans": "冰球杆", "zh-Hant": "冰球桿" } },
+        { "name": { "en-US": "Table Tennis Paddle", "zh-Hans": "乒乓球拍", "zh-Hant": "乒乓球拍" } },
+        { "name": { "en-US": "Badminton Racket", "zh-Hans": "羽毛球拍", "zh-Hant": "羽毛球拍" } },
+        { "name": { "en-US": "Volleyball", "zh-Hans": "排球", "zh-Hant": "排球" } },
+        { "name": { "en-US": "Soccer Goal Net", "zh-Hans": "足球球门网", "zh-Hant": "足球球門網" } },
+        { "name": { "en-US": "Boxing Gloves", "zh-Hans": "拳击手套", "zh-Hant": "拳擊手套" } },
+        { "name": { "en-US": "Punching Bag", "zh-Hans": "沙袋", "zh-Hant": "沙袋" } },
+        { "name": { "en-US": "Skipping Rope", "zh-Hans": "跳绳", "zh-Hant": "跳繩" } },
+        { "name": { "en-US": "Yoga Mat", "zh-Hans": "瑜伽垫", "zh-Hant": "瑜伽墊" } },
+        { "name": { "en-US": "Dumbbells", "zh-Hans": "哑铃", "zh-Hant": "啞鈴" } },
+        { "name": { "en-US": "Kettlebell", "zh-Hans": "壶铃", "zh-Hant": "壺鈴" } },
+        { "name": { "en-US": "Resistance Bands", "zh-Hans": "弹力带", "zh-Hant": "彈力帶" } },
+        { "name": { "en-US": "Pull-Up Bar", "zh-Hans": "引体向上杆", "zh-Hant": "引體向上桿" } },
+        { "name": { "en-US": "Gym Ball", "zh-Hans": "健身球", "zh-Hant": "健身球" } },
+        { "name": { "en-US": "Balance Board", "zh-Hans": "平衡板", "zh-Hant": "平衡板" } },
+        { "name": { "en-US": "Rowing Machine", "zh-Hans": "划船机", "zh-Hant": "划船機" } },
+        { "name": { "en-US": "Treadmill", "zh-Hans": "跑步机", "zh-Hant": "跑步機" } },
+        { "name": { "en-US": "Exercise Bike", "zh-Hans": "动感单车", "zh-Hant": "健身單車" } },
+        { "name": { "en-US": "Elliptical Trainer", "zh-Hans": "椭圆机", "zh-Hant": "橢圓機" } },
+        { "name": { "en-US": "Foam Roller", "zh-Hans": "泡沫轴", "zh-Hant": "泡棉滾筒" } },
+        { "name": { "en-US": "Weightlifting Belt", "zh-Hans": "举重腰带", "zh-Hant": "舉重腰帶" } },
+        { "name": { "en-US": "Shin Guards", "zh-Hans": "护腿板", "zh-Hant": "護脛板" } },
+        { "name": { "en-US": "Helmet", "zh-Hans": "头盔", "zh-Hant": "頭盔" } },
+        { "name": { "en-US": "Surfboard", "zh-Hans": "冲浪板", "zh-Hant": "衝浪板" } },
+        { "name": { "en-US": "Skateboard", "zh-Hans": "滑板", "zh-Hant": "滑板" } },
+        { "name": { "en-US": "Roller Skates", "zh-Hans": "轮滑鞋", "zh-Hant": "輪滑鞋" } },
+        { "name": { "en-US": "Ice Skates", "zh-Hans": "冰刀鞋", "zh-Hant": "溜冰鞋" } },
+        { "name": { "en-US": "Ski Poles", "zh-Hans": "滑雪杖", "zh-Hant": "滑雪杖" } },
+        { "name": { "en-US": "Snowboard", "zh-Hans": "单板滑雪板", "zh-Hant": "單板滑雪板" } },
+        { "name": { "en-US": "Climbing Rope", "zh-Hans": "攀岩绳", "zh-Hant": "攀岩繩" } },
+        { "name": { "en-US": "Carabiner", "zh-Hans": "主锁/快挂", "zh-Hant": "主鎖/快扣" } },
+        { "name": { "en-US": "Camping Tent", "zh-Hans": "露营帐篷", "zh-Hant": "露營帳篷" } },
+        { "name": { "en-US": "Hiking Backpack", "zh-Hans": "登山背包", "zh-Hant": "登山背包" } },
+        { "name": { "en-US": "Sleeping Bag", "zh-Hans": "睡袋", "zh-Hant": "睡袋" } },
+        { "name": { "en-US": "Kayak", "zh-Hans": "皮划艇", "zh-Hant": "皮劃艇" } },
+        { "name": { "en-US": "Canoe Paddle", "zh-Hans": "独木舟桨", "zh-Hant": "獨木舟槳" } },
+        { "name": { "en-US": "Fishing Rod", "zh-Hans": "钓鱼竿", "zh-Hant": "釣魚竿" } },
+        { "name": { "en-US": "Archery Bow", "zh-Hans": "弓", "zh-Hant": "弓" } },
+        { "name": { "en-US": "Dartboard", "zh-Hans": "飞镖靶", "zh-Hant": "飛鏢靶" } },
+        { "name": { "en-US": "Frisbee", "zh-Hans": "飞盘", "zh-Hant": "飛盤" } },
+        { "name": { "en-US": "Table Football Set", "zh-Hans": "桌上足球套装", "zh-Hant": "桌上足球套裝" } },
+        { "name": { "en-US": "Lacrosse Stick", "zh-Hans": "长曲棍球杆", "zh-Hant": "長曲棍球桿" } },
+        { "name": { "en-US": "Water Polo Ball", "zh-Hans": "水球", "zh-Hant": "水球" } },
+        { "name": { "en-US": "Handball", "zh-Hans": "手球", "zh-Hant": "手球" } }
       ]
     }
   ]
