@@ -1,0 +1,359 @@
+{
+  "name": {
+    "en-US": "Books & Literature",
+    "zh-Hans": "书籍与文学",
+    "zh-Hant": "書籍與文學"
+  },
+  "products": [
+    {
+      "name": {
+        "en-US": "Mystery Novel",
+        "zh-Hans": "推理小说",
+        "zh-Hant": "推理小說"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Science Fiction Novel",
+        "zh-Hans": "科幻小说",
+        "zh-Hant": "科幻小說"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Fantasy Novel",
+        "zh-Hans": "奇幻小说",
+        "zh-Hant": "奇幻小說"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Romance Novel",
+        "zh-Hans": "言情小说",
+        "zh-Hant": "言情小說"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Historical Fiction",
+        "zh-Hans": "历史小说",
+        "zh-Hant": "歷史小說"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Biography",
+        "zh-Hans": "传记",
+        "zh-Hant": "傳記"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Autobiography",
+        "zh-Hans": "自传",
+        "zh-Hant": "自傳"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Poetry Collection",
+        "zh-Hans": "诗集",
+        "zh-Hant": "詩集"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Short Story Anthology",
+        "zh-Hans": "短篇小说选集",
+        "zh-Hant": "短篇小說選集"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Children’s Picture Book",
+        "zh-Hans": "儿童图画书",
+        "zh-Hant": "兒童圖畫書"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Young Adult Novel",
+        "zh-Hans": "青少年小说",
+        "zh-Hant": "青少年小說"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Classic Literature",
+        "zh-Hans": "经典文学",
+        "zh-Hant": "經典文學"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Philosophy Book",
+        "zh-Hans": "哲学书",
+        "zh-Hant": "哲學書"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Psychology Textbook",
+        "zh-Hans": "心理学教材",
+        "zh-Hant": "心理學教材"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Science Textbook",
+        "zh-Hans": "科学教材",
+        "zh-Hant": "科學教材"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Mathematics Textbook",
+        "zh-Hans": "数学教材",
+        "zh-Hant": "數學教材"
+      }
+    },
+    {
+      "name": {
+        "en-US": "History Textbook",
+        "zh-Hans": "历史教材",
+        "zh-Hant": "歷史教材"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Art Book",
+        "zh-Hans": "艺术书",
+        "zh-Hant": "藝術書"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Photography Book",
+        "zh-Hans": "摄影书",
+        "zh-Hant": "攝影書"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Cookbook",
+        "zh-Hans": "烹饪书",
+        "zh-Hant": "烹飪書"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Travel Guide",
+        "zh-Hans": "旅行指南",
+        "zh-Hant": "旅行指南"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Self-Help Book",
+        "zh-Hans": "自助书",
+        "zh-Hant": "自助書"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Business Strategy Book",
+        "zh-Hans": "商业战略书",
+        "zh-Hant": "商業戰略書"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Economics Book",
+        "zh-Hans": "经济学书",
+        "zh-Hant": "經濟學書"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Political Science Book",
+        "zh-Hans": "政治学书",
+        "zh-Hant": "政治學書"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Sociology Book",
+        "zh-Hans": "社会学书",
+        "zh-Hant": "社會學書"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Anthropology Book",
+        "zh-Hans": "人类学书",
+        "zh-Hant": "人類學書"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Engineering Manual",
+        "zh-Hans": "工程手册",
+        "zh-Hant": "工程手冊"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Medical Textbook",
+        "zh-Hans": "医学教材",
+        "zh-Hant": "醫學教材"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Law Handbook",
+        "zh-Hans": "法律手册",
+        "zh-Hant": "法律手冊"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Religious Text",
+        "zh-Hans": "宗教典籍",
+        "zh-Hant": "宗教典籍"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Spiritual Guide",
+        "zh-Hans": "心灵指南",
+        "zh-Hant": "心靈指南"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Mythology Collection",
+        "zh-Hans": "神话集",
+        "zh-Hant": "神話集"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Folktale Anthology",
+        "zh-Hans": "民间故事选集",
+        "zh-Hant": "民間故事選集"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Graphic Novel",
+        "zh-Hans": "图像小说",
+        "zh-Hant": "圖像小說"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Comic Book",
+        "zh-Hans": "漫画书",
+        "zh-Hant": "漫畫書"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Manga Volume",
+        "zh-Hans": "日漫单行本",
+        "zh-Hant": "日漫單行本"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Dictionary",
+        "zh-Hans": "词典",
+        "zh-Hant": "詞典"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Thesaurus",
+        "zh-Hans": "同义词词典",
+        "zh-Hant": "同義詞詞典"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Encyclopedia",
+        "zh-Hans": "百科全书",
+        "zh-Hant": "百科全書"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Atlas",
+        "zh-Hans": "地图集",
+        "zh-Hant": "地圖集"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Language Learning Book",
+        "zh-Hans": "语言学习书",
+        "zh-Hant": "語言學習書"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Grammar Guide",
+        "zh-Hans": "语法指南",
+        "zh-Hant": "語法指南"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Writing Guide",
+        "zh-Hans": "写作指南",
+        "zh-Hant": "寫作指南"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Essay Collection",
+        "zh-Hans": "散文集",
+        "zh-Hant": "散文集"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Speech Collection",
+        "zh-Hans": "演讲集",
+        "zh-Hant": "演講集"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Drama Play",
+        "zh-Hans": "戏剧剧本",
+        "zh-Hant": "戲劇劇本"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Screenplay",
+        "zh-Hans": "电影剧本",
+        "zh-Hant": "電影劇本"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Classic Epic",
+        "zh-Hans": "经典史诗",
+        "zh-Hant": "經典史詩"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Literary Criticism",
+        "zh-Hans": "文学批评",
+        "zh-Hant": "文學批評"
+      }
+    }
+  ]
+}

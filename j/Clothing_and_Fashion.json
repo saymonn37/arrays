@@ -1,0 +1,366 @@
+{
+  "name": {
+    "en-US": "Clothing & Fashion",
+    "zh-Hans": "服装与时尚",
+    "zh-Hant": "服裝與時尚"
+  },
+  "products": [
+    {
+      "name": {
+        "en-US": "T-Shirt",
+        "zh-Hans": "T恤",
+        "zh-Hant": "T恤"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Polo Shirt",
+        "zh-Hans": "POLO衫",
+        "zh-Hant": "POLO衫"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Dress Shirt",
+        "zh-Hans": "正装衬衫",
+        "zh-Hant": "正裝襯衫"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Sweater",
+        "zh-Hans": "毛衣",
+        "zh-Hant": "毛衣"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Hoodie",
+        "zh-Hans": "连帽卫衣",
+        "zh-Hant": "連帽衛衣"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Jacket",
+        "zh-Hans": "夹克",
+        "zh-Hant": "夾克"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Blazer",
+        "zh-Hans": "西装外套",
+        "zh-Hant": "西裝外套"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Suit",
+        "zh-Hans": "西装",
+        "zh-Hant": "西裝"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Coat",
+        "zh-Hans": "大衣",
+        "zh-Hant": "大衣"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Trench Coat",
+        "zh-Hans": "风衣",
+        "zh-Hant": "風衣"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Raincoat",
+        "zh-Hans": "雨衣",
+        "zh-Hant": "雨衣"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Leather Jacket",
+        "zh-Hans": "皮夹克",
+        "zh-Hant": "皮夾克"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Jeans",
+        "zh-Hans": "牛仔裤",
+        "zh-Hant": "牛仔褲"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Chinos",
+        "zh-Hans": "休闲卡其裤",
+        "zh-Hant": "休閒卡其褲"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Shorts",
+        "zh-Hans": "短裤",
+        "zh-Hant": "短褲"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Skirt",
+        "zh-Hans": "裙子",
+        "zh-Hant": "裙子"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Dress",
+        "zh-Hans": "连衣裙",
+        "zh-Hant": "連衣裙"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Evening Gown",
+        "zh-Hans": "礼服长裙",
+        "zh-Hant": "禮服長裙"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Cocktail Dress",
+        "zh-Hans": "小礼服",
+        "zh-Hant": "小禮服"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Cardigan",
+        "zh-Hans": "开衫",
+        "zh-Hant": "開衫"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Tank Top",
+        "zh-Hans": "背心",
+        "zh-Hant": "背心"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Crop Top",
+        "zh-Hans": "露脐上衣",
+        "zh-Hant": "露臍上衣"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Sports Bra",
+        "zh-Hans": "运动内衣",
+        "zh-Hant": "運動內衣"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Leggings",
+        "zh-Hans": "打底裤",
+        "zh-Hant": "打底褲"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Trousers",
+        "zh-Hans": "长裤",
+        "zh-Hant": "長褲"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Cargo Pants",
+        "zh-Hans": "工装裤",
+        "zh-Hant": "工裝褲"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Overalls",
+        "zh-Hans": "连体工作服",
+        "zh-Hant": "連體工作服"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Dungarees",
+        "zh-Hans": "背带裤",
+        "zh-Hant": "吊帶褲"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Pajamas",
+        "zh-Hans": "睡衣",
+        "zh-Hant": "睡衣"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Bathrobe",
+        "zh-Hans": "浴袍",
+        "zh-Hant": "浴袍"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Underwear",
+        "zh-Hans": "内衣",
+        "zh-Hant": "內衣"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Socks",
+        "zh-Hans": "袜子",
+        "zh-Hant": "襪子"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Stockings",
+        "zh-Hans": "长筒袜",
+        "zh-Hant": "長筒襪"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Tights",
+        "zh-Hans": "连裤袜",
+        "zh-Hant": "連褲襪"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Scarf",
+        "zh-Hans": "围巾",
+        "zh-Hant": "圍巾"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Tie",
+        "zh-Hans": "领带",
+        "zh-Hant": "領帶"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Bow Tie",
+        "zh-Hans": "蝴蝶结领结",
+        "zh-Hant": "蝴蝶結領結"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Hat",
+        "zh-Hans": "帽子",
+        "zh-Hant": "帽子"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Cap",
+        "zh-Hans": "鸭舌帽",
+        "zh-Hant": "鴨舌帽"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Beanie",
+        "zh-Hans": "毛线帽",
+        "zh-Hant": "毛線帽"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Gloves",
+        "zh-Hans": "手套",
+        "zh-Hant": "手套"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Mittens",
+        "zh-Hans": "连指手套",
+        "zh-Hant": "連指手套"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Belt",
+        "zh-Hans": "腰带",
+        "zh-Hant": "皮帶"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Handbag",
+        "zh-Hans": "手提包",
+        "zh-Hant": "手提包"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Backpack",
+        "zh-Hans": "双肩包",
+        "zh-Hant": "雙肩包"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Sneakers",
+        "zh-Hans": "运动鞋",
+        "zh-Hant": "運動鞋"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Loafers",
+        "zh-Hans": "乐福鞋",
+        "zh-Hant": "樂福鞋"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Sandals",
+        "zh-Hans": "凉鞋",
+        "zh-Hant": "涼鞋"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Boots",
+        "zh-Hans": "靴子",
+        "zh-Hant": "靴子"
+      }
+    },
+    {
+      "name": {
+        "en-US": "High Heels",
+        "zh-Hans": "高跟鞋",
+        "zh-Hant": "高跟鞋"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Slippers",
+        "zh-Hans": "拖鞋",
+        "zh-Hant": "拖鞋"
+      }
+    }
+  ]
+}

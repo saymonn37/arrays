@@ -1,0 +1,359 @@
+{
+  "name": {
+    "en-US": "Sports Equipment",
+    "zh-Hans": "体育器材",
+    "zh-Hant": "體育器材"
+  },
+  "products": [
+    {
+      "name": {
+        "en-US": "Football",
+        "zh-Hans": "美式橄榄球",
+        "zh-Hant": "美式橄欖球"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Basketball",
+        "zh-Hans": "篮球",
+        "zh-Hant": "籃球"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Tennis Racket",
+        "zh-Hans": "网球拍",
+        "zh-Hant": "網球拍"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Baseball Bat",
+        "zh-Hans": "棒球棒",
+        "zh-Hant": "棒球棒"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Cricket Bat",
+        "zh-Hans": "板球拍",
+        "zh-Hant": "板球拍"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Golf Club",
+        "zh-Hans": "高尔夫球杆",
+        "zh-Hant": "高爾夫球桿"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Hockey Stick",
+        "zh-Hans": "冰球杆",
+        "zh-Hant": "冰球桿"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Table Tennis Paddle",
+        "zh-Hans": "乒乓球拍",
+        "zh-Hant": "乒乓球拍"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Badminton Racket",
+        "zh-Hans": "羽毛球拍",
+        "zh-Hant": "羽毛球拍"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Volleyball",
+        "zh-Hans": "排球",
+        "zh-Hant": "排球"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Soccer Goal Net",
+        "zh-Hans": "足球球门网",
+        "zh-Hant": "足球球門網"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Boxing Gloves",
+        "zh-Hans": "拳击手套",
+        "zh-Hant": "拳擊手套"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Punching Bag",
+        "zh-Hans": "沙袋",
+        "zh-Hant": "沙袋"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Skipping Rope",
+        "zh-Hans": "跳绳",
+        "zh-Hant": "跳繩"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Yoga Mat",
+        "zh-Hans": "瑜伽垫",
+        "zh-Hant": "瑜伽墊"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Dumbbells",
+        "zh-Hans": "哑铃",
+        "zh-Hant": "啞鈴"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Kettlebell",
+        "zh-Hans": "壶铃",
+        "zh-Hant": "壺鈴"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Resistance Bands",
+        "zh-Hans": "弹力带",
+        "zh-Hant": "彈力帶"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Pull-Up Bar",
+        "zh-Hans": "引体向上杆",
+        "zh-Hant": "引體向上桿"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Gym Ball",
+        "zh-Hans": "健身球",
+        "zh-Hant": "健身球"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Balance Board",
+        "zh-Hans": "平衡板",
+        "zh-Hant": "平衡板"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Rowing Machine",
+        "zh-Hans": "划船机",
+        "zh-Hant": "划船機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Treadmill",
+        "zh-Hans": "跑步机",
+        "zh-Hant": "跑步機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Exercise Bike",
+        "zh-Hans": "动感单车",
+        "zh-Hant": "健身單車"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Elliptical Trainer",
+        "zh-Hans": "椭圆机",
+        "zh-Hant": "橢圓機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Foam Roller",
+        "zh-Hans": "泡沫轴",
+        "zh-Hant": "泡棉滾筒"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Weightlifting Belt",
+        "zh-Hans": "举重腰带",
+        "zh-Hant": "舉重腰帶"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Shin Guards",
+        "zh-Hans": "护腿板",
+        "zh-Hant": "護脛板"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Helmet",
+        "zh-Hans": "头盔",
+        "zh-Hant": "頭盔"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Surfboard",
+        "zh-Hans": "冲浪板",
+        "zh-Hant": "衝浪板"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Skateboard",
+        "zh-Hans": "滑板",
+        "zh-Hant": "滑板"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Roller Skates",
+        "zh-Hans": "轮滑鞋",
+        "zh-Hant": "輪滑鞋"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Ice Skates",
+        "zh-Hans": "冰刀鞋",
+        "zh-Hant": "溜冰鞋"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Ski Poles",
+        "zh-Hans": "滑雪杖",
+        "zh-Hant": "滑雪杖"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Snowboard",
+        "zh-Hans": "单板滑雪板",
+        "zh-Hant": "單板滑雪板"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Climbing Rope",
+        "zh-Hans": "攀岩绳",
+        "zh-Hant": "攀岩繩"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Carabiner",
+        "zh-Hans": "主锁/快挂",
+        "zh-Hant": "主鎖/快扣"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Camping Tent",
+        "zh-Hans": "露营帐篷",
+        "zh-Hant": "露營帳篷"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Hiking Backpack",
+        "zh-Hans": "登山背包",
+        "zh-Hant": "登山背包"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Sleeping Bag",
+        "zh-Hans": "睡袋",
+        "zh-Hant": "睡袋"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Kayak",
+        "zh-Hans": "皮划艇",
+        "zh-Hant": "皮劃艇"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Canoe Paddle",
+        "zh-Hans": "独木舟桨",
+        "zh-Hant": "獨木舟槳"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Fishing Rod",
+        "zh-Hans": "钓鱼竿",
+        "zh-Hant": "釣魚竿"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Archery Bow",
+        "zh-Hans": "弓",
+        "zh-Hant": "弓"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Dartboard",
+        "zh-Hans": "飞镖靶",
+        "zh-Hant": "飛鏢靶"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Frisbee",
+        "zh-Hans": "飞盘",
+        "zh-Hant": "飛盤"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Table Football Set",
+        "zh-Hans": "桌上足球套装",
+        "zh-Hant": "桌上足球套裝"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Lacrosse Stick",
+        "zh-Hans": "长曲棍球杆",
+        "zh-Hant": "長曲棍球桿"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Water Polo Ball",
+        "zh-Hans": "水球",
+        "zh-Hant": "水球"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Handball",
+        "zh-Hans": "手球",
+        "zh-Hant": "手球"
+      }
+    }
+  ]
+}

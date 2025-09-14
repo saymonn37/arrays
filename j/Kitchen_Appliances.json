@@ -1,0 +1,366 @@
+{
+  "name": {
+    "en-US": "Kitchen Appliances",
+    "zh-Hans": "厨房电器",
+    "zh-Hant": "廚房電器"
+  },
+  "products": [
+    {
+      "name": {
+        "en-US": "Blender",
+        "zh-Hans": "搅拌机",
+        "zh-Hant": "攪拌機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Toaster",
+        "zh-Hans": "烤面包机",
+        "zh-Hant": "烤麵包機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Coffee Maker",
+        "zh-Hans": "咖啡机",
+        "zh-Hant": "咖啡機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Microwave Oven",
+        "zh-Hans": "微波炉",
+        "zh-Hant": "微波爐"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Electric Kettle",
+        "zh-Hans": "电热水壶",
+        "zh-Hant": "電熱水壺"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Stand Mixer",
+        "zh-Hans": "厨师机",
+        "zh-Hant": "廚師機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Hand Mixer",
+        "zh-Hans": "手持打蛋器",
+        "zh-Hant": "手持打蛋器"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Food Processor",
+        "zh-Hans": "食物处理机",
+        "zh-Hant": "食物處理機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Juicer",
+        "zh-Hans": "榨汁机",
+        "zh-Hant": "榨汁機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Slow Cooker",
+        "zh-Hans": "慢炖锅",
+        "zh-Hant": "慢燉鍋"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Pressure Cooker",
+        "zh-Hans": "高压锅",
+        "zh-Hant": "高壓鍋"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Air Fryer",
+        "zh-Hans": "空气炸锅",
+        "zh-Hant": "空氣炸鍋"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Rice Cooker",
+        "zh-Hans": "电饭煲",
+        "zh-Hant": "電飯煲"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Sandwich Maker",
+        "zh-Hans": "三明治机",
+        "zh-Hant": "三明治機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Waffle Iron",
+        "zh-Hans": "华夫饼机",
+        "zh-Hant": "鬆餅機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Ice Cream Maker",
+        "zh-Hans": "冰淇淋机",
+        "zh-Hant": "冰淇淋機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Bread Maker",
+        "zh-Hans": "面包机",
+        "zh-Hant": "麵包機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Induction Cooktop",
+        "zh-Hans": "电磁炉",
+        "zh-Hant": "電磁爐"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Electric Grill",
+        "zh-Hans": "电烤炉",
+        "zh-Hant": "電烤爐"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Deep Fryer",
+        "zh-Hans": "油炸锅",
+        "zh-Hant": "油炸鍋"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Steam Cooker",
+        "zh-Hans": "蒸锅",
+        "zh-Hant": "蒸鍋"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Vacuum Sealer",
+        "zh-Hans": "真空封口机",
+        "zh-Hant": "真空封口機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Coffee Grinder",
+        "zh-Hans": "咖啡研磨机",
+        "zh-Hant": "咖啡研磨機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Milk Frother",
+        "zh-Hans": "奶泡机",
+        "zh-Hant": "打奶泡機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Soup Maker",
+        "zh-Hans": "煲汤机",
+        "zh-Hant": "煲湯機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Dehydrator",
+        "zh-Hans": "食品烘干机",
+        "zh-Hant": "食品烘乾機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Egg Cooker",
+        "zh-Hans": "煮蛋器",
+        "zh-Hant": "煮蛋器"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Yogurt Maker",
+        "zh-Hans": "酸奶机",
+        "zh-Hant": "優格機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Popcorn Machine",
+        "zh-Hans": "爆米花机",
+        "zh-Hant": "爆米花機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Mini Fridge",
+        "zh-Hans": "小冰箱",
+        "zh-Hant": "小冰箱"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Wine Cooler",
+        "zh-Hans": "红酒柜",
+        "zh-Hant": "紅酒櫃"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Dishwasher",
+        "zh-Hans": "洗碗机",
+        "zh-Hant": "洗碗機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Electric Oven",
+        "zh-Hans": "电烤箱",
+        "zh-Hant": "電烤箱"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Range Hood",
+        "zh-Hans": "抽油烟机",
+        "zh-Hant": "抽油煙機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Cooktop Stove",
+        "zh-Hans": "炉灶台",
+        "zh-Hant": "爐灶臺"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Water Dispenser",
+        "zh-Hans": "饮水机",
+        "zh-Hant": "飲水機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Espresso Machine",
+        "zh-Hans": "意式咖啡机",
+        "zh-Hant": "義式咖啡機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Pizza Oven",
+        "zh-Hans": "披萨炉",
+        "zh-Hant": "披薩爐"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Compact Freezer",
+        "zh-Hans": "迷你冷冻柜",
+        "zh-Hant": "迷你冷凍櫃"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Portable Burner",
+        "zh-Hans": "便携炉",
+        "zh-Hant": "便攜爐"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Sous Vide Machine",
+        "zh-Hans": "低温慢煮机",
+        "zh-Hant": "低溫慢煮機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Food Warmer",
+        "zh-Hans": "保温炉",
+        "zh-Hant": "保溫爐"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Coffee Capsule Machine",
+        "zh-Hans": "胶囊咖啡机",
+        "zh-Hant": "膠囊咖啡機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Herb Grinder",
+        "zh-Hans": "香草研磨机",
+        "zh-Hant": "香草研磨機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Nut Grinder",
+        "zh-Hans": "坚果研磨机",
+        "zh-Hant": "堅果研磨機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Churro Maker",
+        "zh-Hans": "吉事果机",
+        "zh-Hant": "西班牙油條機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Hot Dog Roller",
+        "zh-Hans": "热狗滚轴机",
+        "zh-Hant": "熱狗滾軸機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Donut Maker",
+        "zh-Hans": "甜甜圈机",
+        "zh-Hant": "甜甜圈機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Tea Brewing Machine",
+        "zh-Hans": "泡茶机",
+        "zh-Hant": "泡茶機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Portable Ice Maker",
+        "zh-Hans": "制冰机",
+        "zh-Hant": "製冰機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Electric Skillet",
+        "zh-Hans": "电煎锅",
+        "zh-Hant": "電煎鍋"
+      }
+    }
+  ]
+}

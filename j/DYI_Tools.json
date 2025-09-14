@@ -1,0 +1,366 @@
+{
+  "name": {
+    "en-US": "DYI Tools",
+    "zh-Hans": "DIY 工具",
+    "zh-Hant": "DIY 工具"
+  },
+  "products": [
+    {
+      "name": {
+        "en-US": "Hammer",
+        "zh-Hans": "锤子",
+        "zh-Hant": "錘子"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Cordless Drill",
+        "zh-Hans": "无绳电钻",
+        "zh-Hant": "無繩電鑽"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Angle Grinder",
+        "zh-Hans": "角磨机",
+        "zh-Hant": "角磨機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Hand Saw",
+        "zh-Hans": "手锯",
+        "zh-Hant": "手鋸"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Circular Saw",
+        "zh-Hans": "圆锯",
+        "zh-Hant": "圓鋸"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Spirit Level",
+        "zh-Hans": "水平尺",
+        "zh-Hant": "水平尺"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Measuring Tape",
+        "zh-Hans": "卷尺",
+        "zh-Hant": "捲尺"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Adjustable Wrench",
+        "zh-Hans": "活动扳手",
+        "zh-Hant": "活動扳手"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Pipe Wrench",
+        "zh-Hans": "管钳",
+        "zh-Hant": "管鉗"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Allen Key Set",
+        "zh-Hans": "内六角扳手套装",
+        "zh-Hant": "內六角扳手套裝"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Chisel",
+        "zh-Hans": "凿子",
+        "zh-Hant": "鑿子"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Claw Hammer",
+        "zh-Hans": "羊角锤",
+        "zh-Hant": "羊角錘"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Rubber Mallet",
+        "zh-Hans": "橡胶锤",
+        "zh-Hant": "橡膠錘"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Handsaw Frame",
+        "zh-Hans": "手锯架",
+        "zh-Hant": "手鋸架"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Coping Saw",
+        "zh-Hans": "弓锯",
+        "zh-Hant": "弓鋸"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Metal File",
+        "zh-Hans": "金属锉",
+        "zh-Hant": "金屬銼"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Wire Cutter",
+        "zh-Hans": "断线钳",
+        "zh-Hant": "斷線鉗"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Pliers",
+        "zh-Hans": "钳子",
+        "zh-Hant": "鉗子"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Combination Square",
+        "zh-Hans": "角尺",
+        "zh-Hant": "角尺"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Utility Knife",
+        "zh-Hans": "美工刀",
+        "zh-Hant": "美工刀"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Staple Gun",
+        "zh-Hans": "订书枪",
+        "zh-Hant": "訂書槍"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Caulking Gun",
+        "zh-Hans": "打胶枪",
+        "zh-Hant": "打膠槍"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Heat Gun",
+        "zh-Hans": "热风枪",
+        "zh-Hant": "熱風槍"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Soldering Iron",
+        "zh-Hans": "电烙铁",
+        "zh-Hant": "電烙鐵"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Workbench",
+        "zh-Hans": "工作台",
+        "zh-Hant": "工作臺"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Vice Grip",
+        "zh-Hans": "锁紧钳",
+        "zh-Hant": "鎖緊鉗"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Drill Bits Set",
+        "zh-Hans": "钻头套装",
+        "zh-Hant": "鑽頭套裝"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Jigsaw",
+        "zh-Hans": "曲线锯",
+        "zh-Hant": "曲線鋸"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Table Saw",
+        "zh-Hans": "台锯",
+        "zh-Hant": "檯鋸"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Band Saw",
+        "zh-Hans": "带锯",
+        "zh-Hant": "帶鋸"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Orbital Sander",
+        "zh-Hans": "轨道砂光机",
+        "zh-Hant": "軌道砂光機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Belt Sander",
+        "zh-Hans": "皮带砂光机",
+        "zh-Hant": "皮帶砂光機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Planer",
+        "zh-Hans": "刨机",
+        "zh-Hant": "鉋機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Wood Router",
+        "zh-Hans": "木工铣床",
+        "zh-Hant": "木工銑床"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Nail Gun",
+        "zh-Hans": "钉枪",
+        "zh-Hant": "釘槍"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Torque Wrench",
+        "zh-Hans": "扭矩扳手",
+        "zh-Hant": "扭力扳手"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Socket Set",
+        "zh-Hans": "套筒扳手套装",
+        "zh-Hant": "套筒扳手套裝"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Crowbar",
+        "zh-Hans": "撬棍",
+        "zh-Hant": "撬棍"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Tile Cutter",
+        "zh-Hans": "切砖机",
+        "zh-Hant": "切磚機"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Ladder",
+        "zh-Hans": "梯子",
+        "zh-Hant": "梯子"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Workbench Clamp",
+        "zh-Hans": "工作台夹具",
+        "zh-Hant": "工作臺夾具"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Stud Finder",
+        "zh-Hans": "探钉器",
+        "zh-Hant": "探釘器"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Paint Roller",
+        "zh-Hans": "滚筒刷",
+        "zh-Hant": "滾筒刷"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Paint Brush Set",
+        "zh-Hans": "油漆刷套装",
+        "zh-Hant": "油漆刷套裝"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Putty Knife",
+        "zh-Hans": "批刀",
+        "zh-Hant": "批刀"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Trowel",
+        "zh-Hans": "抹子",
+        "zh-Hant": "抹子"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Hot Glue Gun",
+        "zh-Hans": "热熔胶枪",
+        "zh-Hant": "熱熔膠槍"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Work Light",
+        "zh-Hans": "工作灯",
+        "zh-Hant": "工作燈"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Dust Mask",
+        "zh-Hans": "防尘口罩",
+        "zh-Hant": "防塵口罩"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Protective Goggles",
+        "zh-Hans": "护目镜",
+        "zh-Hant": "護目鏡"
+      }
+    },
+    {
+      "name": {
+        "en-US": "Ear Protectors",
+        "zh-Hans": "护耳",
+        "zh-Hant": "護耳"
+      }
+    }
+  ]
+}
