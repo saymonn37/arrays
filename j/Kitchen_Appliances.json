@@ -7,359 +7,359 @@
   "products": [
     {
       "name": {
-        "en-US": "Blender",
-        "zh-Hans": "搅拌机",
-        "zh-Hant": "攪拌機"
+        "en-US": "Blender - VitaBlend 2000W Power Blender, 2L Glass Jar, Variable Speed",
+        "zh-Hans": "搅拌机 - VitaBlend 2000W 强力搅拌机，2升玻璃罐，可变速",
+        "zh-Hant": "攪拌機 - VitaBlend 2000W 強力攪拌機，2升玻璃罐，可變速"
       }
     },
     {
       "name": {
-        "en-US": "Toaster",
-        "zh-Hans": "烤面包机",
-        "zh-Hant": "烤麵包機"
+        "en-US": "Toaster - ToastMaster T-4, 4-Slice Toaster, 6 Browning Settings",
+        "zh-Hans": "烤面包机 - ToastMaster T-4，4片烤面包机，6档烘烤设置",
+        "zh-Hant": "烤麵包機 - ToastMaster T-4，4片烤麵包機，6檔烘烤設置"
       }
     },
     {
       "name": {
-        "en-US": "Coffee Maker",
-        "zh-Hans": "咖啡机",
-        "zh-Hant": "咖啡機"
+        "en-US": "Coffee Maker - BrewMate CM-12, 12-Cup Drip Coffee Maker, Programmable",
+        "zh-Hans": "咖啡机 - BrewMate CM-12，12杯滴漏式咖啡机，可编程",
+        "zh-Hant": "咖啡機 - BrewMate CM-12，12杯滴漏式咖啡機，可編程"
       }
     },
     {
       "name": {
-        "en-US": "Microwave Oven",
-        "zh-Hans": "微波炉",
-        "zh-Hant": "微波爐"
+        "en-US": "Microwave Oven - MicroWave Pro MP-1000, 1000W, 25L Capacity, Digital Display",
+        "zh-Hans": "微波炉 - MicroWave Pro MP-1000，1000W，25升容量，数字显示",
+        "zh-Hant": "微波爐 - MicroWave Pro MP-1000，1000W，25升容量，數字顯示"
       }
     },
     {
       "name": {
-        "en-US": "Electric Kettle",
-        "zh-Hans": "电热水壶",
-        "zh-Hant": "電熱水壺"
+        "en-US": "Electric Kettle - AquaBoil EK-1.7, 1.7L Capacity, Stainless Steel, Auto Shut-off",
+        "zh-Hans": "电热水壶 - AquaBoil EK-1.7，1.7升容量，不锈钢，自动断电",
+        "zh-Hant": "電熱水壺 - AquaBoil EK-1.7，1.7升容量，不銹鋼，自動斷電"
       }
     },
     {
       "name": {
-        "en-US": "Stand Mixer",
-        "zh-Hans": "厨师机",
-        "zh-Hant": "廚師機"
+        "en-US": "Stand Mixer - MixMaster SM-800, 800W Motor, 5.5L Stainless Steel Bowl",
+        "zh-Hans": "厨师机 - MixMaster SM-800，800W电机，5.5升不锈钢碗",
+        "zh-Hant": "廚師機 - MixMaster SM-800，800W馬達，5.5升不銹鋼碗"
       }
     },
     {
       "name": {
-        "en-US": "Hand Mixer",
-        "zh-Hans": "手持打蛋器",
-        "zh-Hant": "手持打蛋器"
+        "en-US": "Hand Mixer - Whiskit HM-300, 300W, 5 Speed Settings, Eject Button",
+        "zh-Hans": "手持打蛋器 - Whiskit HM-300，300W，5档速度，带弹出按钮",
+        "zh-Hant": "手持打蛋器 - Whiskit HM-300，300W，5檔速度，帶彈出按鈕"
       }
     },
     {
       "name": {
-        "en-US": "Food Processor",
-        "zh-Hans": "食物处理机",
-        "zh-Hant": "食物處理機"
+        "en-US": "Food Processor - Cuisinart FP-14, 14-Cup Capacity, 720W, Dicing Kit",
+        "zh-Hans": "食物处理机 - Cuisinart FP-14，14杯容量，720W，带切丁配件",
+        "zh-Hant": "食物處理機 - Cuisinart FP-14，14杯容量，720W，帶切丁配件"
       }
     },
     {
       "name": {
-        "en-US": "Juicer",
-        "zh-Hans": "榨汁机",
-        "zh-Hant": "榨汁機"
+        "en-US": "Juicer - JuiceMax JM-800, 800W Centrifugal Juicer, Wide Feed Chute",
+        "zh-Hans": "榨汁机 - JuiceMax JM-800，800W离心式榨汁机，宽口进料槽",
+        "zh-Hant": "榨汁機 - JuiceMax JM-800，800W離心式榨汁機，寬口進料槽"
       }
     },
     {
       "name": {
-        "en-US": "Slow Cooker",
-        "zh-Hans": "慢炖锅",
-        "zh-Hant": "慢燉鍋"
+        "en-US": "Slow Cooker - Crock-Pot SC-6, 6-Quart Capacity, Ceramic Pot, Digital Timer",
+        "zh-Hans": "慢炖锅 - Crock-Pot SC-6，6夸脱容量，陶瓷内胆，数字计时器",
+        "zh-Hant": "慢燉鍋 - Crock-Pot SC-6，6夸脫容量，陶瓷內膽，數字計時器"
       }
     },
     {
       "name": {
-        "en-US": "Pressure Cooker",
-        "zh-Hans": "高压锅",
-        "zh-Hant": "高壓鍋"
+        "en-US": "Pressure Cooker - InstaCook PC-8, 8-Quart Electric Pressure Cooker, 10-in-1 Functions",
+        "zh-Hans": "高压锅 - InstaCook PC-8，8夸脱电高压锅，10合1功能",
+        "zh-Hant": "高壓鍋 - InstaCook PC-8，8夸脫電高壓鍋，10合1功能"
       }
     },
     {
       "name": {
-        "en-US": "Air Fryer",
-        "zh-Hans": "空气炸锅",
-        "zh-Hant": "空氣炸鍋"
+        "en-US": "Air Fryer - FryAir AF-5L, 5L Capacity, 1500W, Adjustable Temperature Control",
+        "zh-Hans": "空气炸锅 - FryAir AF-5L，5升容量，1500W，可调温度控制",
+        "zh-Hant": "空氣炸鍋 - FryAir AF-5L，5升容量，1500W，可調溫度控制"
       }
     },
     {
       "name": {
-        "en-US": "Rice Cooker",
-        "zh-Hans": "电饭煲",
-        "zh-Hant": "電飯煲"
+        "en-US": "Rice Cooker - RiceKing RC-10, 10-Cup Capacity, Non-stick Pot, Keep-warm Function",
+        "zh-Hans": "电饭煲 - RiceKing RC-10，10杯容量，不粘内胆，保温功能",
+        "zh-Hant": "電飯煲 - RiceKing RC-10，10杯容量，不粘內膽，保溫功能"
       }
     },
     {
       "name": {
-        "en-US": "Sandwich Maker",
-        "zh-Hans": "三明治机",
-        "zh-Hant": "三明治機"
+        "en-US": "Sandwich Maker - GrillMaster SM-2, Non-stick Plates, Compact Design",
+        "zh-Hans": "三明治机 - GrillMaster SM-2，不粘烤盘，小巧设计",
+        "zh-Hant": "三明治機 - GrillMaster SM-2，不粘烤盤，小巧設計"
       }
     },
     {
       "name": {
-        "en-US": "Waffle Iron",
-        "zh-Hans": "华夫饼机",
-        "zh-Hant": "鬆餅機"
+        "en-US": "Waffle Iron - WaffleJoy WJ-101, Non-stick Plates, Indicator Lights",
+        "zh-Hans": "华夫饼机 - WaffleJoy WJ-101，不粘烤盘，指示灯",
+        "zh-Hant": "鬆餅機 - WaffleJoy WJ-101，不粘烤盤，指示燈"
       }
     },
     {
       "name": {
-        "en-US": "Ice Cream Maker",
-        "zh-Hans": "冰淇淋机",
-        "zh-Hant": "冰淇淋機"
+        "en-US": "Ice Cream Maker - ColdTreat IC-1.5, 1.5-Quart Capacity, Built-in Compressor",
+        "zh-Hans": "冰淇淋机 - ColdTreat IC-1.5，1.5夸脱容量，内置压缩机",
+        "zh-Hant": "冰淇淋機 - ColdTreat IC-1.5，1.5夸脫容量，內置壓縮機"
       }
     },
     {
       "name": {
-        "en-US": "Bread Maker",
-        "zh-Hans": "面包机",
-        "zh-Hant": "麵包機"
+        "en-US": "Bread Maker - BakeBoss BM-2, 2lb Loaf Capacity, 12 Baking Programs",
+        "zh-Hans": "面包机 - BakeBoss BM-2，2磅容量，12种烘焙程序",
+        "zh-Hant": "麵包機 - BakeBoss BM-2，2磅容量，12種烘焙程序"
       }
     },
     {
       "name": {
-        "en-US": "Induction Cooktop",
-        "zh-Hans": "电磁炉",
-        "zh-Hant": "電磁爐"
+        "en-US": "Induction Cooktop - PowerInduct IC-2100, 2100W, Portable, Digital Control",
+        "zh-Hans": "电磁炉 - PowerInduct IC-2100，2100W，便携式，数字控制",
+        "zh-Hant": "電磁爐 - PowerInduct IC-2100，2100W，便攜式，數字控制"
       }
     },
     {
       "name": {
-        "en-US": "Electric Grill",
-        "zh-Hans": "电烤炉",
-        "zh-Hant": "電烤爐"
+        "en-US": "Electric Grill - GrillZone EG-3, 30cm Surface, 2000W, Removable Drip Tray",
+        "zh-Hans": "电烤炉 - GrillZone EG-3，30厘米烤面，2000W，可拆卸滴油盘",
+        "zh-Hant": "電烤爐 - GrillZone EG-3，30厘米烤面，2000W，可拆卸滴油盤"
       }
     },
     {
       "name": {
-        "en-US": "Deep Fryer",
-        "zh-Hans": "油炸锅",
-        "zh-Hant": "油炸鍋"
+        "en-US": "Deep Fryer - FryMaster DF-4L, 4L Oil Capacity, 2000W, Adjustable Thermostat",
+        "zh-Hans": "油炸锅 - FryMaster DF-4L，4升油容量，2000W，可调恒温器",
+        "zh-Hant": "油炸鍋 - FryMaster DF-4L，4升油容量，2000W，可調恆溫器"
       }
     },
     {
       "name": {
-        "en-US": "Steam Cooker",
-        "zh-Hans": "蒸锅",
-        "zh-Hant": "蒸鍋"
+        "en-US": "Steam Cooker - SteamPerfect SC-3, 3-Tier, 9L Capacity, Digital Timer",
+        "zh-Hans": "蒸锅 - SteamPerfect SC-3，3层，9升容量，数字计时器",
+        "zh-Hant": "蒸鍋 - SteamPerfect SC-3，3層，9升容量，數字計時器"
       }
     },
     {
       "name": {
-        "en-US": "Vacuum Sealer",
-        "zh-Hans": "真空封口机",
-        "zh-Hant": "真空封口機"
+        "en-US": "Vacuum Sealer - SealFresh VS-10, Automatic Vacuum Sealer, Includes Starter Bags",
+        "zh-Hans": "真空封口机 - SealFresh VS-10，自动真空封口机，附赠入门袋",
+        "zh-Hant": "真空封口機 - SealFresh VS-10，自動真空封口機，附贈入門袋"
       }
     },
     {
       "name": {
-        "en-US": "Coffee Grinder",
-        "zh-Hans": "咖啡研磨机",
-        "zh-Hant": "咖啡研磨機"
+        "en-US": "Coffee Grinder - GrindPerfect CG-150, 150W Blade Grinder, Stainless Steel Blades",
+        "zh-Hans": "咖啡研磨机 - GrindPerfect CG-150，150W刀片研磨机，不锈钢刀片",
+        "zh-Hant": "咖啡研磨機 - GrindPerfect CG-150，150W刀片研磨機，不銹鋼刀片"
       }
     },
     {
       "name": {
-        "en-US": "Milk Frother",
-        "zh-Hans": "奶泡机",
-        "zh-Hant": "打奶泡機"
+        "en-US": "Milk Frother - FrothMagic MF-4, Automatic, Hot & Cold Froth, Non-stick Interior",
+        "zh-Hans": "奶泡机 - FrothMagic MF-4，自动，冷热奶泡，不粘内壁",
+        "zh-Hant": "打奶泡機 - FrothMagic MF-4，自動，冷熱奶泡，不粘內壁"
       }
     },
     {
       "name": {
-        "en-US": "Soup Maker",
-        "zh-Hans": "煲汤机",
-        "zh-Hant": "煲湯機"
+        "en-US": "Soup Maker - SoupChef SM-1.6, 1.6L Capacity, Blend & Heat Functions",
+        "zh-Hans": "煲汤机 - SoupChef SM-1.6，1.6升容量，带搅拌和加热功能",
+        "zh-Hant": "煲湯機 - SoupChef SM-1.6，1.6升容量，帶攪拌和加熱功能"
       }
     },
     {
       "name": {
-        "en-US": "Dehydrator",
-        "zh-Hans": "食品烘干机",
-        "zh-Hant": "食品烘乾機"
+        "en-US": "Dehydrator - DryMaster DH-5, 5-Tray Food Dehydrator, Adjustable Temperature",
+        "zh-Hans": "食品烘干机 - DryMaster DH-5，5层食品烘干机，可调温度",
+        "zh-Hant": "食品烘乾機 - DryMaster DH-5，5層食品烘乾機，可調溫度"
       }
     },
     {
       "name": {
-        "en-US": "Egg Cooker",
-        "zh-Hans": "煮蛋器",
-        "zh-Hant": "煮蛋器"
+        "en-US": "Egg Cooker - Egg-cellent EC-7, 7-Egg Capacity, Poaching Tray Included",
+        "zh-Hans": "煮蛋器 - Egg-cellent EC-7，7个鸡蛋容量，附带蒸蛋盘",
+        "zh-Hant": "煮蛋器 - Egg-cellent EC-7，7個雞蛋容量，附帶蒸蛋盤"
       }
     },
     {
       "name": {
-        "en-US": "Yogurt Maker",
-        "zh-Hans": "酸奶机",
-        "zh-Hant": "優格機"
+        "en-US": "Yogurt Maker - YoguLife YM-1.5, 1.5L Capacity, Glass Jar",
+        "zh-Hans": "酸奶机 - YoguLife YM-1.5，1.5升容量，玻璃罐",
+        "zh-Hant": "優格機 - YoguLife YM-1.5，1.5升容量，玻璃罐"
       }
     },
     {
       "name": {
-        "en-US": "Popcorn Machine",
-        "zh-Hans": "爆米花机",
-        "zh-Hant": "爆米花機"
+        "en-US": "Popcorn Machine - PopMaster PM-8, Hot Air Popper, Oil-free",
+        "zh-Hans": "爆米花机 - PopMaster PM-8，热风爆米花机，无油",
+        "zh-Hant": "爆米花機 - PopMaster PM-8，熱風爆米花機，無油"
       }
     },
     {
       "name": {
-        "en-US": "Mini Fridge",
-        "zh-Hans": "小冰箱",
-        "zh-Hant": "小冰箱"
+        "en-US": "Mini Fridge - CoolCube MF-10L, 10L Capacity, Thermoelectric Cooling",
+        "zh-Hans": "小冰箱 - CoolCube MF-10L，10升容量，热电制冷",
+        "zh-Hant": "小冰箱 - CoolCube MF-10L，10升容量，熱電製冷"
       }
     },
     {
       "name": {
-        "en-US": "Wine Cooler",
-        "zh-Hans": "红酒柜",
-        "zh-Hant": "紅酒櫃"
+        "en-US": "Wine Cooler - Vinoteca WC-12, 12-Bottle Capacity, Digital Temperature Control",
+        "zh-Hans": "红酒柜 - Vinoteca WC-12，12瓶容量，数字温度控制",
+        "zh-Hant": "紅酒櫃 - Vinoteca WC-12，12瓶容量，數字溫度控制"
       }
     },
     {
       "name": {
-        "en-US": "Dishwasher",
-        "zh-Hans": "洗碗机",
-        "zh-Hant": "洗碗機"
+        "en-US": "Dishwasher - SparkleWash DW-6, Countertop Dishwasher, 6 Place Settings",
+        "zh-Hans": "洗碗机 - SparkleWash DW-6，台式洗碗机，6套餐具容量",
+        "zh-Hant": "洗碗機 - SparkleWash DW-6，台式洗碗機，6套餐具容量"
       }
     },
     {
       "name": {
-        "en-US": "Electric Oven",
-        "zh-Hans": "电烤箱",
-        "zh-Hant": "電烤箱"
+        "en-US": "Electric Oven - BakePro EO-45, 45L Capacity, 2000W, Convection Fan",
+        "zh-Hans": "电烤箱 - BakePro EO-45，45升容量，2000W，对流风扇",
+        "zh-Hant": "電烤箱 - BakePro EO-45，45升容量，2000W，對流風扇"
       }
     },
     {
       "name": {
-        "en-US": "Range Hood",
-        "zh-Hans": "抽油烟机",
-        "zh-Hant": "抽油煙機"
+        "en-US": "Range Hood - FreshAir RH-90, 90cm Wide, 600 CFM, LED Lighting",
+        "zh-Hans": "抽油烟机 - FreshAir RH-90，90厘米宽，600 CFM，LED照明",
+        "zh-Hant": "抽油煙機 - FreshAir RH-90，90厘米寬，600 CFM，LED照明"
       }
     },
     {
       "name": {
-        "en-US": "Cooktop Stove",
-        "zh-Hans": "炉灶台",
-        "zh-Hant": "爐灶臺"
+        "en-US": "Cooktop Stove - FlameOn CS-5, 5-Burner Gas Cooktop, Cast Iron Grates",
+        "zh-Hans": "炉灶台 - FlameOn CS-5，5头燃气灶，铸铁炉架",
+        "zh-Hant": "爐灶臺 - FlameOn CS-5，5頭燃氣灶，鑄鐵爐架"
       }
     },
     {
       "name": {
-        "en-US": "Water Dispenser",
-        "zh-Hans": "饮水机",
-        "zh-Hant": "飲水機"
+        "en-US": "Water Dispenser - AquaFlow WD-10, Hot & Cold Water, Filter Included",
+        "zh-Hans": "饮水机 - AquaFlow WD-10，冷热水，含滤芯",
+        "zh-Hant": "飲水機 - AquaFlow WD-10，冷熱水，含濾芯"
       }
     },
     {
       "name": {
-        "en-US": "Espresso Machine",
-        "zh-Hans": "意式咖啡机",
-        "zh-Hant": "義式咖啡機"
+        "en-US": "Espresso Machine - EspressoPro EMP-1, 15 Bar Pump, Built-in Grinder",
+        "zh-Hans": "意式咖啡机 - EspressoPro EMP-1，15巴泵压，内置研磨器",
+        "zh-Hant": "義式咖啡機 - EspressoPro EMP-1，15巴泵壓，內置研磨器"
       }
     },
     {
       "name": {
-        "en-US": "Pizza Oven",
-        "zh-Hans": "披萨炉",
-        "zh-Hant": "披薩爐"
+        "en-US": "Pizza Oven - PizzaPerfect PO-1, Countertop Pizza Oven, 12-inch Capacity",
+        "zh-Hans": "披萨炉 - PizzaPerfect PO-1，台式披萨炉，12英寸容量",
+        "zh-Hant": "披薩爐 - PizzaPerfect PO-1，台式披薩爐，12英寸容量"
       }
     },
     {
       "name": {
-        "en-US": "Compact Freezer",
-        "zh-Hans": "迷你冷冻柜",
-        "zh-Hant": "迷你冷凍櫃"
+        "en-US": "Compact Freezer - FreezeCube CF-4, 4 cu. ft. Chest Freezer, Manual Defrost",
+        "zh-Hans": "迷你冷冻柜 - FreezeCube CF-4，4立方英尺卧式冷柜，手动除霜",
+        "zh-Hant": "迷你冷凍櫃 - FreezeCube CF-4，4立方英尺臥式冷櫃，手動除霜"
       }
     },
     {
       "name": {
-        "en-US": "Portable Burner",
-        "zh-Hans": "便携炉",
-        "zh-Hant": "便攜爐"
+        "en-US": "Portable Burner - HotPlate PB-1, 1000W Single Burner, Compact",
+        "zh-Hans": "便携炉 - HotPlate PB-1，1000W单炉，小巧",
+        "zh-Hant": "便攜爐 - HotPlate PB-1，1000W單爐，小巧"
       }
     },
     {
       "name": {
-        "en-US": "Sous Vide Machine",
-        "zh-Hans": "低温慢煮机",
-        "zh-Hant": "低溫慢煮機"
+        "en-US": "Sous Vide Machine - Immersion Chef IC-5, 1000W, Digital Control",
+        "zh-Hans": "低温慢煮机 - Immersion Chef IC-5，1000W，数字控制",
+        "zh-Hant": "低溫慢煮機 - Immersion Chef IC-5，1000W，數字控制"
       }
     },
     {
       "name": {
-        "en-US": "Food Warmer",
-        "zh-Hans": "保温炉",
-        "zh-Hant": "保溫爐"
+        "en-US": "Food Warmer - WarmServe FW-2, 2-Tray Buffet Server, Stainless Steel",
+        "zh-Hans": "保温炉 - WarmServe FW-2，双盘自助餐炉，不锈钢",
+        "zh-Hant": "保溫爐 - WarmServe FW-2，雙盤自助餐爐，不銹鋼"
       }
     },
     {
       "name": {
-        "en-US": "Coffee Capsule Machine",
-        "zh-Hans": "胶囊咖啡机",
-        "zh-Hant": "膠囊咖啡機"
+        "en-US": "Coffee Capsule Machine - K-Cup Master KCM-1, Single Serve, 3 Cup Sizes",
+        "zh-Hans": "胶囊咖啡机 - K-Cup Master KCM-1，单杯份，3种杯型尺寸",
+        "zh-Hant": "膠囊咖啡機 - K-Cup Master KCM-1，單杯份，3種杯型尺寸"
       }
     },
     {
       "name": {
-        "en-US": "Herb Grinder",
-        "zh-Hans": "香草研磨机",
-        "zh-Hant": "香草研磨機"
+        "en-US": "Herb Grinder - HerbMill HM-1, Manual Grinder, Magnetic Lid",
+        "zh-Hans": "香草研磨机 - HerbMill HM-1，手动研磨机，磁性盖",
+        "zh-Hant": "香草研磨機 - HerbMill HM-1，手動研磨機，磁性蓋"
       }
     },
     {
       "name": {
-        "en-US": "Nut Grinder",
-        "zh-Hans": "坚果研磨机",
-        "zh-Hant": "堅果研磨機"
+        "en-US": "Nut Grinder - NutBlast NG-10, Electric Grinder, Stainless Steel Blades",
+        "zh-Hans": "坚果研磨机 - NutBlast NG-10，电动研磨机，不锈钢刀片",
+        "zh-Hant": "堅果研磨機 - NutBlast NG-10，電動研磨機，不銹鋼刀片"
       }
     },
     {
       "name": {
-        "en-US": "Churro Maker",
-        "zh-Hans": "吉事果机",
-        "zh-Hant": "西班牙油條機"
+        "en-US": "Churro Maker - ChurroPro CP-5, Non-stick Plates, Easy to Clean",
+        "zh-Hans": "吉事果机 - ChurroPro CP-5，不粘烤盘，易于清洁",
+        "zh-Hant": "西班牙油條機 - ChurroPro CP-5，不粘烤盤，易於清潔"
       }
     },
     {
       "name": {
-        "en-US": "Hot Dog Roller",
-        "zh-Hans": "热狗滚轴机",
-        "zh-Hant": "熱狗滾軸機"
+        "en-US": "Hot Dog Roller - HotDogger HDR-10, 10-Roller Capacity, Stainless Steel",
+        "zh-Hans": "热狗滚轴机 - HotDogger HDR-10，10根热狗容量，不锈钢",
+        "zh-Hant": "熱狗滾軸機 - HotDogger HDR-10，10根熱狗容量，不銹鋼"
       }
     },
     {
       "name": {
-        "en-US": "Donut Maker",
-        "zh-Hans": "甜甜圈机",
-        "zh-Hant": "甜甜圈機"
+        "en-US": "Donut Maker - DonutDelight DD-7, 7-Donut Capacity, Non-stick Coating",
+        "zh-Hans": "甜甜圈机 - DonutDelight DD-7，7个甜甜圈容量，不粘涂层",
+        "zh-Hant": "甜甜圈機 - DonutDelight DD-7，7個甜甜圈容量，不粘塗層"
       }
     },
     {
       "name": {
-        "en-US": "Tea Brewing Machine",
-        "zh-Hans": "泡茶机",
-        "zh-Hant": "泡茶機"
+        "en-US": "Tea Brewing Machine - TeaMaster TM-1, Automatic, Infuser Basket",
+        "zh-Hans": "泡茶机 - TeaMaster TM-1，自动，带滤茶篮",
+        "zh-Hant": "泡茶機 - TeaMaster TM-1，自動，帶濾茶籃"
       }
     },
     {
       "name": {
-        "en-US": "Portable Ice Maker",
-        "zh-Hans": "制冰机",
-        "zh-Hant": "製冰機"
+        "en-US": "Portable Ice Maker - IceCube IC-15, 15kg/day Capacity, Small/Large Ice Cubes",
+        "zh-Hans": "制冰机 - IceCube IC-15，每日15公斤容量，小/大冰块",
+        "zh-Hant": "製冰機 - IceCube IC-15，每日15公斤容量，小/大冰塊"
       }
     },
     {
       "name": {
-        "en-US": "Electric Skillet",
-        "zh-Hans": "电煎锅",
-        "zh-Hant": "電煎鍋"
+        "en-US": "Electric Skillet - SkilletPro SP-12, 12-inch, Non-stick, Glass Lid",
+        "zh-Hans": "电煎锅 - SkilletPro SP-12，12英寸，不粘涂层，玻璃盖",
+        "zh-Hant": "電煎鍋 - SkilletPro SP-12，12英寸，不粘塗層，玻璃蓋"
       }
     }
   ]
