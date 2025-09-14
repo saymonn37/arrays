@@ -7,359 +7,359 @@
   "products": [
     {
       "name": {
-        "en-US": "Hammer",
-        "zh-Hans": "锤子",
-        "zh-Hant": "錘子"
+        "en-US": "Hammer - Stark Tools ST-16oz-H, 16oz, Steel Head, Fiberglass Handle",
+        "zh-Hans": "锤子 - Stark Tools ST-16oz-H，16盎司，钢头，玻璃纤维手柄",
+        "zh-Hant": "錘子 - Stark Tools ST-16oz-H，16盎司，鋼頭，玻璃纖維手柄"
       }
     },
     {
       "name": {
-        "en-US": "Cordless Drill",
-        "zh-Hans": "无绳电钻",
-        "zh-Hant": "無繩電鑽"
+        "en-US": "Cordless Drill - PowerPro PD-18V-PRO, 18V, 45Nm Torque, 13mm Chuck",
+        "zh-Hans": "无绳电钻 - PowerPro PD-18V-PRO，18V，45牛米扭矩，13毫米夹头",
+        "zh-Hant": "無繩電鑽 - PowerPro PD-18V-PRO，18V，45牛米扭力，13毫米夾頭"
       }
     },
     {
       "name": {
-        "en-US": "Angle Grinder",
-        "zh-Hans": "角磨机",
-        "zh-Hant": "角磨機"
+        "en-US": "Angle Grinder - Force AG-1200, 1200W, 125mm Disc, 11000rpm",
+        "zh-Hans": "角磨机 - Force AG-1200，1200W，125毫米砂轮，11000转/分",
+        "zh-Hant": "角磨機 - Force AG-1200，1200W，125毫米砂輪，11000轉/分"
       }
     },
     {
       "name": {
-        "en-US": "Hand Saw",
-        "zh-Hans": "手锯",
-        "zh-Hant": "手鋸"
+        "en-US": "Hand Saw - Saw Master HM-550-UC, 550mm, Universal Cut, Soft-grip",
+        "zh-Hans": "手锯 - Saw Master HM-550-UC，550毫米，通用切割，软柄",
+        "zh-Hant": "手鋸 - Saw Master HM-550-UC，550毫米，通用切割，軟柄"
       }
     },
     {
       "name": {
-        "en-US": "Circular Saw",
-        "zh-Hans": "圆锯",
-        "zh-Hant": "圓鋸"
+        "en-US": "Circular Saw - ProCut CS-1400, 1400W, 185mm Blade, 65mm Depth",
+        "zh-Hans": "圆锯 - ProCut CS-1400，1400W，185毫米刀片，65毫米切割深度",
+        "zh-Hant": "圓鋸 - ProCut CS-1400，1400W，185毫米刀片，65毫米切割深度"
       }
     },
     {
       "name": {
-        "en-US": "Spirit Level",
-        "zh-Hans": "水平尺",
-        "zh-Hant": "水平尺"
+        "en-US": "Spirit Level - LevelRight SL-600M, 600mm, Magnetic, 3 Vials",
+        "zh-Hans": "水平尺 - LevelRight SL-600M，600毫米，磁性，3个水平气泡",
+        "zh-Hant": "水平尺 - LevelRight SL-600M，600毫米，磁性，3個水平氣泡"
       }
     },
     {
       "name": {
-        "en-US": "Measuring Tape",
-        "zh-Hans": "卷尺",
-        "zh-Hant": "捲尺"
+        "en-US": "Measuring Tape - Measure-It MT-5M, 5m, Steel Blade, Auto-lock",
+        "zh-Hans": "卷尺 - Measure-It MT-5M，5米，钢卷尺，自动锁定",
+        "zh-Hant": "捲尺 - Measure-It MT-5M，5米，鋼捲尺，自動鎖定"
       }
     },
     {
       "name": {
-        "en-US": "Adjustable Wrench",
-        "zh-Hans": "活动扳手",
-        "zh-Hant": "活動扳手"
+        "en-US": "Adjustable Wrench - GripTech AW-250, 250mm, 30mm Jaw Capacity",
+        "zh-Hans": "活动扳手 - GripTech AW-250，250毫米，30毫米钳口容量",
+        "zh-Hant": "活動扳手 - GripTech AW-250，250毫米，30毫米鉗口容量"
       }
     },
     {
       "name": {
-        "en-US": "Pipe Wrench",
-        "zh-Hans": "管钳",
-        "zh-Hant": "管鉗"
+        "en-US": "Pipe Wrench - PlumbMaster PW-350HD, 350mm, Heavy Duty, 1.5in Capacity",
+        "zh-Hans": "管钳 - PlumbMaster PW-350HD，350毫米，重型，1.5英寸容量",
+        "zh-Hant": "管鉗 - PlumbMaster PW-350HD，350毫米，重型，1.5英寸容量"
       }
     },
     {
       "name": {
-        "en-US": "Allen Key Set",
-        "zh-Hans": "内六角扳手套装",
-        "zh-Hant": "內六角扳手套裝"
+        "en-US": "Allen Key Set - Hexa-Pro AK-MI-20, 20-piece, Metric & Imperial, Ball End",
+        "zh-Hans": "内六角扳手套装 - Hexa-Pro AK-MI-20，20件套，公制和英制，球头",
+        "zh-Hant": "內六角扳手套裝 - Hexa-Pro AK-MI-20，20件套，公制和英制，球頭"
       }
     },
     {
       "name": {
-        "en-US": "Chisel",
-        "zh-Hans": "凿子",
-        "zh-Hant": "鑿子"
+        "en-US": "Chisel - CarveMaster WC-SET-4, 4-piece Woodworking Set, Hardened Steel",
+        "zh-Hans": "凿子 - CarveMaster WC-SET-4，4件木工套装，硬化钢",
+        "zh-Hant": "鑿子 - CarveMaster WC-SET-4，4件木工套裝，硬化鋼"
       }
     },
     {
       "name": {
-        "en-US": "Claw Hammer",
-        "zh-Hans": "羊角锤",
-        "zh-Hant": "羊角錘"
+        "en-US": "Claw Hammer - ProBuild CH-20SR, 20oz, Shock Reduction Grip",
+        "zh-Hans": "羊角锤 - ProBuild CH-20SR，20盎司，减震握柄",
+        "zh-Hant": "羊角錘 - ProBuild CH-20SR，20盎司，減震握柄"
       }
     },
     {
       "name": {
-        "en-US": "Rubber Mallet",
-        "zh-Hans": "橡胶锤",
-        "zh-Hant": "橡膠錘"
+        "en-US": "Rubber Mallet - SoftStrike RM-16W, 16oz, Non-marring Head, Wooden Handle",
+        "zh-Hans": "橡胶锤 - SoftStrike RM-16W，16盎司，不伤表面锤头，木柄",
+        "zh-Hant": "橡膠錘 - SoftStrike RM-16W，16盎司，不傷表面錘頭，木柄"
       }
     },
     {
       "name": {
-        "en-US": "Handsaw Frame",
-        "zh-Hans": "手锯架",
-        "zh-Hant": "手鋸架"
+        "en-US": "Handsaw Frame - BladeGrip HF-ADJ, Adjustable, Steel Frame",
+        "zh-Hans": "手锯架 - BladeGrip HF-ADJ，可调节，钢制框架",
+        "zh-Hant": "手鋸架 - BladeGrip HF-ADJ，可調節，鋼製框架"
       }
     },
     {
       "name": {
-        "en-US": "Coping Saw",
-        "zh-Hans": "弓锯",
-        "zh-Hant": "弓鋸"
+        "en-US": "Coping Saw - CraftCut CS-FC, Fine Cut, Hardwood Handle",
+        "zh-Hans": "弓锯 - CraftCut CS-FC，精细切割，硬木手柄",
+        "zh-Hant": "弓鋸 - CraftCut CS-FC，精細切割，硬木手柄"
       }
     },
     {
       "name": {
-        "en-US": "Metal File",
-        "zh-Hans": "金属锉",
-        "zh-Hant": "金屬銼"
+        "en-US": "Metal File - FileRight MF-200B, 200mm, Bastard Cut, Flat Profile",
+        "zh-Hans": "金属锉 - FileRight MF-200B，200毫米，粗齿，平形",
+        "zh-Hant": "金屬銼 - FileRight MF-200B，200毫米，粗齒，平形"
       }
     },
     {
       "name": {
-        "en-US": "Wire Cutter",
-        "zh-Hans": "断线钳",
-        "zh-Hant": "斷線鉗"
+        "en-US": "Wire Cutter - ElecTools WC-150D, 150mm, Diagonal Jaw, Insulated Grip",
+        "zh-Hans": "断线钳 - ElecTools WC-150D，150毫米，斜口，绝缘握柄",
+        "zh-Hant": "斷線鉗 - ElecTools WC-150D，150毫米，斜口，絕緣握柄"
       }
     },
     {
       "name": {
-        "en-US": "Pliers",
-        "zh-Hans": "钳子",
-        "zh-Hant": "鉗子"
+        "en-US": "Pliers - MultiGrip P-180C, 180mm, Combination, Chrome-nickel Steel",
+        "zh-Hans": "钳子 - MultiGrip P-180C，180毫米，组合钳，铬镍钢",
+        "zh-Hant": "鉗子 - MultiGrip P-180C，180毫米，組合鉗，鉻鎳鋼"
       }
     },
     {
       "name": {
-        "en-US": "Combination Square",
-        "zh-Hans": "角尺",
-        "zh-Hant": "角尺"
+        "en-US": "Combination Square - TrueMeasure CS-300, 300mm, Stainless Steel Blade",
+        "zh-Hans": "角尺 - TrueMeasure CS-300，300毫米，不锈钢尺身",
+        "zh-Hant": "角尺 - TrueMeasure CS-300，300毫米，不銹鋼尺身"
       }
     },
     {
       "name": {
-        "en-US": "Utility Knife",
-        "zh-Hans": "美工刀",
-        "zh-Hant": "美工刀"
+        "en-US": "Utility Knife - BladeSafe UK-RB, Retractable Snap-off Blade, Zinc Alloy Body",
+        "zh-Hans": "美工刀 - BladeSafe UK-RB，伸缩可断刀片，锌合金刀身",
+        "zh-Hant": "美工刀 - BladeSafe UK-RB，伸縮可斷刀片，鋅合金刀身"
       }
     },
     {
       "name": {
-        "en-US": "Staple Gun",
-        "zh-Hans": "订书枪",
-        "zh-Hant": "訂書槍"
+        "en-US": "Staple Gun - RapidFix SG-HD, Heavy Duty, 6-14mm Staples",
+        "zh-Hans": "订书枪 - RapidFix SG-HD，重型，6-14毫米订书钉",
+        "zh-Hant": "訂書槍 - RapidFix SG-HD，重型，6-14毫米訂書釘"
       }
     },
     {
       "name": {
-        "en-US": "Caulking Gun",
-        "zh-Hans": "打胶枪",
-        "zh-Hant": "打膠槍"
+        "en-US": "Caulking Gun - SealPro CG-300, 300ml Standard, Steel Frame",
+        "zh-Hans": "打胶枪 - SealPro CG-300，300毫升标准，钢制框架",
+        "zh-Hant": "打膠槍 - SealPro CG-300，300毫升標準，鋼製框架"
       }
     },
     {
       "name": {
-        "en-US": "Heat Gun",
-        "zh-Hans": "热风枪",
-        "zh-Hant": "熱風槍"
+        "en-US": "Heat Gun - HotStream HG-2000T, 2000W, Variable Temp Control",
+        "zh-Hans": "热风枪 - HotStream HG-2000T，2000W，可调温控",
+        "zh-Hant": "熱風槍 - HotStream HG-2000T，2000W，可調溫控"
       }
     },
     {
       "name": {
-        "en-US": "Soldering Iron",
-        "zh-Hans": "电烙铁",
-        "zh-Hant": "電烙鐵"
+        "en-US": "Soldering Iron - SolderPro SI-60WK, 60W, Adjustable Temperature",
+        "zh-Hans": "电烙铁 - SolderPro SI-60WK，60W，可调温度",
+        "zh-Hant": "電烙鐵 - SolderPro SI-60WK，60W，可調溫度"
       }
     },
     {
       "name": {
-        "en-US": "Workbench",
-        "zh-Hans": "工作台",
-        "zh-Hant": "工作臺"
+        "en-US": "Workbench - WorkMate WB-P, Portable Folding, 150kg Load Capacity",
+        "zh-Hans": "工作台 - WorkMate WB-P，便携式折叠，150公斤承重",
+        "zh-Hant": "工作臺 - WorkMate WB-P，便攜式折疊，150公斤承重"
       }
     },
     {
       "name": {
-        "en-US": "Vice Grip",
-        "zh-Hans": "锁紧钳",
-        "zh-Hant": "鎖緊鉗"
+        "en-US": "Vice Grip - LockJaw VG-250C, 250mm, Curved Jaw",
+        "zh-Hans": "锁紧钳 - LockJaw VG-250C，250毫米，弯口",
+        "zh-Hant": "鎖緊鉗 - LockJaw VG-250C，250毫米，彎口"
       }
     },
     {
       "name": {
-        "en-US": "Drill Bits Set",
-        "zh-Hans": "钻头套装",
-        "zh-Hant": "鑽頭套裝"
+        "en-US": "Drill Bits Set - Drill-All DBS-WM-100, 100-piece, Wood & Metal, Titanium Coated",
+        "zh-Hans": "钻头套装 - Drill-All DBS-WM-100，100件套，木材和金属，镀钛",
+        "zh-Hant": "鑽頭套裝 - Drill-All DBS-WM-100，100件套，木材和金屬，鍍鈦"
       }
     },
     {
       "name": {
-        "en-US": "Jigsaw",
-        "zh-Hans": "曲线锯",
-        "zh-Hant": "曲線鋸"
+        "en-US": "Jigsaw - CutCurve JS-800V, 800W, Variable Speed, 100mm Wood Capacity",
+        "zh-Hans": "曲线锯 - CutCurve JS-800V，800W，变速，100毫米木材切割能力",
+        "zh-Hant": "曲線鋸 - CutCurve JS-800V，800W，變速，100毫米木材切割能力"
       }
     },
     {
       "name": {
-        "en-US": "Table Saw",
-        "zh-Hans": "台锯",
-        "zh-Hant": "檯鋸"
+        "en-US": "Table Saw - SawStation TS-2000, 2000W, 250mm Blade, 80mm Cutting Depth",
+        "zh-Hans": "台锯 - SawStation TS-2000，2000W，250毫米刀片，80毫米切割深度",
+        "zh-Hant": "檯鋸 - SawStation TS-2000，2000W，250毫米刀片，80毫米切割深度"
       }
     },
     {
       "name": {
-        "en-US": "Band Saw",
-        "zh-Hans": "带锯",
-        "zh-Hant": "帶鋸"
+        "en-US": "Band Saw - BandCut BS-350, 350W, 230mm Throat Depth, 90mm Cutting Height",
+        "zh-Hans": "带锯 - BandCut BS-350，350W，230毫米喉深，90毫米切割高度",
+        "zh-Hant": "帶鋸 - BandCut BS-350，350W，230毫米喉深，90毫米切割高度"
       }
     },
     {
       "name": {
-        "en-US": "Orbital Sander",
-        "zh-Hans": "轨道砂光机",
-        "zh-Hant": "軌道砂光機"
+        "en-US": "Orbital Sander - SmoothFinish OS-240, 240W, 125mm Pad, 12000 opm",
+        "zh-Hans": "轨道砂光机 - SmoothFinish OS-240，240W，125毫米砂垫，12000转/分",
+        "zh-Hant": "軌道砂光機 - SmoothFinish OS-240，240W，125毫米砂墊，12000轉/分"
       }
     },
     {
       "name": {
-        "en-US": "Belt Sander",
-        "zh-Hans": "皮带砂光机",
-        "zh-Hant": "皮帶砂光機"
+        "en-US": "Belt Sander - SandPro BS-800, 800W, 75x533mm Belt, Dust Collection",
+        "zh-Hans": "皮带砂光机 - SandPro BS-800，800W，75x533毫米皮带，带集尘功能",
+        "zh-Hant": "皮帶砂光機 - SandPro BS-800，800W，75x533毫米皮帶，帶集塵功能"
       }
     },
     {
       "name": {
-        "en-US": "Planer",
-        "zh-Hans": "刨机",
-        "zh-Hant": "鉋機"
+        "en-US": "Planer - Plana-Pro P-750, 750W, 82mm Planning Width, 16000rpm",
+        "zh-Hans": "刨机 - Plana-Pro P-750，750W，82毫米刨削宽度，16000转/分",
+        "zh-Hant": "鉋機 - Plana-Pro P-750，750W，82毫米刨削寬度，16000轉/分"
       }
     },
     {
       "name": {
-        "en-US": "Wood Router",
-        "zh-Hans": "木工铣床",
-        "zh-Hant": "木工銑床"
+        "en-US": "Wood Router - RouteMaster WR-1200, 1200W, 6-8mm Collet, Variable Speed",
+        "zh-Hans": "木工铣床 - RouteMaster WR-1200，1200W，6-8毫米夹头，变速",
+        "zh-Hant": "木工銑床 - RouteMaster WR-1200，1200W，6-8毫米夾頭，變速"
       }
     },
     {
       "name": {
-        "en-US": "Nail Gun",
-        "zh-Hans": "钉枪",
-        "zh-Hant": "釘槍"
+        "en-US": "Nail Gun - NailIt NG-18G, 18G Brad Nailer, 15-50mm Nail Length",
+        "zh-Hans": "钉枪 - NailIt NG-18G，18G 码钉，15-50毫米钉长",
+        "zh-Hant": "釘槍 - NailIt NG-18G，18G 碼釘，15-50毫米釘長"
       }
     },
     {
       "name": {
-        "en-US": "Torque Wrench",
-        "zh-Hans": "扭矩扳手",
-        "zh-Hant": "扭力扳手"
+        "en-US": "Torque Wrench - TorquePro TW-12, 1/2in Drive, 40-210Nm Range",
+        "zh-Hans": "扭矩扳手 - TorquePro TW-12，1/2英寸传动，40-210牛米范围",
+        "zh-Hant": "扭力扳手 - TorquePro TW-12，1/2英寸傳動，40-210牛米範圍"
       }
     },
     {
       "name": {
-        "en-US": "Socket Set",
-        "zh-Hans": "套筒扳手套装",
-        "zh-Hant": "套筒扳手套裝"
+        "en-US": "Socket Set - SocketKing SS-47, 47-piece, 1/4 & 1/2in Drive",
+        "zh-Hans": "套筒扳手套装 - SocketKing SS-47，47件套，1/4和1/2英寸传动",
+        "zh-Hant": "套筒扳手套裝 - SocketKing SS-47，47件套，1/4和1/2英寸傳動"
       }
     },
     {
       "name": {
-        "en-US": "Crowbar",
-        "zh-Hans": "撬棍",
-        "zh-Hant": "撬棍"
+        "en-US": "Crowbar - PryMaster CB-90S, 90cm, Steel, 2.5kg",
+        "zh-Hans": "撬棍 - PryMaster CB-90S，90厘米，钢制，2.5公斤",
+        "zh-Hant": "撬棍 - PryMaster CB-90S，90厘米，鋼製，2.5公斤"
       }
     },
     {
       "name": {
-        "en-US": "Tile Cutter",
-        "zh-Hans": "切砖机",
-        "zh-Hant": "切磚機"
+        "en-US": "Tile Cutter - TileCut TC-MAN, Manual, 600mm Max Tile Size",
+        "zh-Hans": "切砖机 - TileCut TC-MAN，手动，最大600毫米瓷砖尺寸",
+        "zh-Hant": "切磚機 - TileCut TC-MAN，手動，最大600毫米磁磚尺寸"
       }
     },
     {
       "name": {
-        "en-US": "Ladder",
-        "zh-Hans": "梯子",
-        "zh-Hant": "梯子"
+        "en-US": "Ladder - StepUp L-3A, 3-Step, Aluminum, 150kg Load",
+        "zh-Hans": "梯子 - StepUp L-3A，3步，铝制，150公斤承重",
+        "zh-Hant": "梯子 - StepUp L-3A，3步，鋁製，150公斤承重"
       }
     },
     {
       "name": {
-        "en-US": "Workbench Clamp",
-        "zh-Hans": "工作台夹具",
-        "zh-Hant": "工作臺夾具"
+        "en-US": "Workbench Clamp - ClampMaster WC-150F, 150mm F-Clamp, Steel",
+        "zh-Hans": "工作台夹具 - ClampMaster WC-150F，150毫米F型夹，钢制",
+        "zh-Hant": "工作臺夾具 - ClampMaster WC-150F，150毫米F型夾，鋼製"
       }
     },
     {
       "name": {
-        "en-US": "Stud Finder",
-        "zh-Hans": "探钉器",
-        "zh-Hant": "探釘器"
+        "en-US": "Stud Finder - FindRight SF-DIG, Digital, Stud/Metal/AC Wire Modes",
+        "zh-Hans": "探钉器 - FindRight SF-DIG，数字，带螺柱/金属/交流电线模式",
+        "zh-Hant": "探釘器 - FindRight SF-DIG，數字，帶螺柱/金屬/交流電線模式"
       }
     },
     {
       "name": {
-        "en-US": "Paint Roller",
-        "zh-Hans": "滚筒刷",
-        "zh-Hant": "滾筒刷"
+        "en-US": "Paint Roller - RollEasy PR-230-18, 230mm, 18mm Nap, Emulsion Paint",
+        "zh-Hans": "滚筒刷 - RollEasy PR-230-18，230毫米，18毫米绒毛，乳胶漆专用",
+        "zh-Hant": "滾筒刷 - RollEasy PR-230-18，230毫米，18毫米絨毛，乳膠漆專用"
       }
     },
     {
       "name": {
-        "en-US": "Paint Brush Set",
-        "zh-Hans": "油漆刷套装",
-        "zh-Hant": "油漆刷套裝"
+        "en-US": "Paint Brush Set - BrushPro PB-SET-5, 5-piece, Synthetic Bristles",
+        "zh-Hans": "油漆刷套装 - BrushPro PB-SET-5，5件套，合成刷毛",
+        "zh-Hant": "油漆刷套裝 - BrushPro PB-SET-5，5件套，合成刷毛"
       }
     },
     {
       "name": {
-        "en-US": "Putty Knife",
-        "zh-Hans": "批刀",
-        "zh-Hant": "批刀"
+        "en-US": "Putty Knife - SmoothEdge PK-50F, 50mm, Flexible Stainless Steel Blade",
+        "zh-Hans": "批刀 - SmoothEdge PK-50F，50毫米，柔性不锈钢刀片",
+        "zh-Hant": "批刀 - SmoothEdge PK-50F，50毫米，柔性不銹鋼刀片"
       }
     },
     {
       "name": {
-        "en-US": "Trowel",
-        "zh-Hans": "抹子",
-        "zh-Hant": "抹子"
+        "en-US": "Trowel - MortarMaster T-BL, Bricklaying, Forged Steel, Soft Grip",
+        "zh-Hans": "抹子 - MortarMaster T-BL，砌砖用，锻钢，软柄",
+        "zh-Hant": "抹子 - MortarMaster T-BL，砌磚用，鍛鋼，軟柄"
       }
     },
     {
       "name": {
-        "en-US": "Hot Glue Gun",
-        "zh-Hans": "热熔胶枪",
-        "zh-Hant": "熱熔膠槍"
+        "en-US": "Hot Glue Gun - GlueFast HGG-20, 20W, 7mm Glue Sticks, 3min Heat-up",
+        "zh-Hans": "热熔胶枪 - GlueFast HGG-20，20W，7毫米胶棒，3分钟加热",
+        "zh-Hant": "熱熔膠槍 - GlueFast HGG-20，20W，7毫米膠棒，3分鐘加熱"
       }
     },
     {
       "name": {
-        "en-US": "Work Light",
-        "zh-Hans": "工作灯",
-        "zh-Hant": "工作燈"
+        "en-US": "Work Light - LiteBright WL-2KL, 2000 Lumen, LED, Mains Powered",
+        "zh-Hans": "工作灯 - LiteBright WL-2KL，2000流明，LED，电源供电",
+        "zh-Hant": "工作燈 - LiteBright WL-2KL，2000流明，LED，電源供電"
       }
     },
     {
       "name": {
-        "en-US": "Dust Mask",
-        "zh-Hans": "防尘口罩",
-        "zh-Hant": "防塵口罩"
+        "en-US": "Dust Mask - SafeBreathe DM-N95, N95 Protection, with Valve",
+        "zh-Hans": "防尘口罩 - SafeBreathe DM-N95，N95防护，带阀门",
+        "zh-Hant": "防塵口罩 - SafeBreathe DM-N95，N95防護，帶閥門"
       }
     },
     {
       "name": {
-        "en-US": "Protective Goggles",
-        "zh-Hans": "护目镜",
-        "zh-Hant": "護目鏡"
+        "en-US": "Protective Goggles - EyeGuard PG-AS, Anti-Scratch, UV Protection",
+        "zh-Hans": "护目镜 - EyeGuard PG-AS，防刮，防紫外线",
+        "zh-Hant": "護目鏡 - EyeGuard PG-AS，防刮，防紫外線"
       }
     },
     {
       "name": {
-        "en-US": "Ear Protectors",
-        "zh-Hans": "护耳",
-        "zh-Hant": "護耳"
+        "en-US": "Ear Protectors - NoiseOff EP-NC, 30dB NRR, Noise Cancelling",
+        "zh-Hans": "护耳 - NoiseOff EP-NC，30dB降噪，隔音",
+        "zh-Hant": "護耳 - NoiseOff EP-NC，30dB降噪，隔音"
       }
     }
   ]
